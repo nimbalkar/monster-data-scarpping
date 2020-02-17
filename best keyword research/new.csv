@@ -1,0 +1,2665 @@
+,title,groups,keywords,topics
+0,Kernelized Bayesian Transfer Learning,Novel Machine Learning Algorithms (NMLA),"cross-domain learning
+domain adaptation
+kernel methods
+transfer learning
+variational approximation","APP: Biomedical / Bioinformatics
+NMLA: Bayesian Learning
+NMLA: Kernel Methods
+NMLA: Transfer, Adaptation, Multitask Learning
+VIS: Object Recognition"
+1,"""Source Free"" Transfer Learning for Text Classification","AI and the Web (AIW)
+Novel Machine Learning Algorithms (NMLA)","Transfer Learning
+Auxiliary Data Retrieval
+Text Classification","AIW: Knowledge acquisition from the web
+AIW: Machine learning and the web
+NMLA: Transfer, Adaptation, Multitask Learning"
+2,A Generalization of Probabilistic Serial to Randomized Social Choice,Game Theory and Economic Paradigms (GTEP),"social choice theory
+voting
+fair division
+social decision schemes","GTEP: Game Theory
+GTEP: Social Choice / Voting"
+3,Lifetime Lexical Variation in Social Media,NLP and Text Mining (NLPTM),"Generative model
+Social Networks
+Age Prediction","AIW: Web personalization and user modeling
+NLPTM: Information Extraction
+NLPTM: Natural Language Processing (General/Other)"
+4,Hybrid Singular Value Thresholding for Tensor Completion,"Knowledge Representation and Reasoning (KRR)
+Machine Learning Applications (MLA)
+Novel Machine Learning Algorithms (NMLA)
+Vision (VIS)","tensor completion
+low-rank recovery
+hybrid singular value thresholding","KRR: Knowledge Representation (General/Other)
+MLA: Machine Learning Applications (General/other)
+NMLA: Data Mining and Knowledge Discovery
+NMLA: Dimension Reduction/Feature Selection
+VIS: Statistical Methods and Learning"
+5,Locality Preserving Hashing,Vision (VIS),"Similarity Search
+Approximate Nearest Neighbor Search
+Binary Codes
+Locality Preserving Hashing",VIS: Image and Video Retrieval
+6,Discovering Better AAAI Keywords via Clustering with Crowd-sourced Constraints,Machine Learning Applications (MLA),"constraint-based clustering
+machine learning
+crowdsourcing",MLA: Applications of Unsupervised Learning
+7,Online Classification Using a Voted RDA Method,"Machine Learning Applications (MLA)
+NLP and Machine Learning (NLPML)
+Novel Machine Learning Algorithms (NMLA)","Online Classification
+Voted Dual Averaging Method
+Natural Language Processing
+Parsing Reranking
+Sparse Regularization","MLA: Machine Learning Applications (General/other)
+NLPML: Natural Language Processing (General/Other)
+NMLA: Big Data / Scalability
+NMLA: Classification
+NMLA: Online Learning"
+8,Fraudulent Support Telephone Number Identification Based on Co-occurrence Information on the Web,AI and the Web (AIW),"Fraudulent Support Telephone Number
+Co-occurrence Graph
+Propagation Algorithm","AIW: Enhancing web search and information retrieval
+AIW: Recognizing web spam such as link farms and splogs"
+9,Supervised Hashing for Image Retrieval via Image Representation Learning,"Novel Machine Learning Algorithms (NMLA)
+Vision (VIS)","supervised hashing
+approximate near neighbor search
+representation learning
+convolutional neural networks
+coordinate descent","NMLA: Neural Networks/Deep Learning
+VIS: Image and Video Retrieval"
+10,Tailoring Local Search for Partial MaxSAT,"Heuristic Search and Optimization (HSO)
+Search and Constraint Satisfaction (SCS)","Partial MaxSAT
+Local Search
+Heuristics","HSO: Heuristic Search
+HSO: Optimization
+SCS: Constraint Optimization"
+11,R2: An Efficient MCMC Sampler for Probabilistic Programs,"Novel Machine Learning Algorithms (NMLA)
+Reasoning under Uncertainty (RU)","Probabilistic programming
+Program analysis
+Sampling","MLA: Machine Learning Applications (General/other)
+NMLA: Bayesian Learning
+RU: Bayesian Networks
+RU: Graphical Models (Other)
+RU: Probabilistic Inference"
+12,Reconsidering Mutual Information Based Feature Selection: A Statistical Significance View,Novel Machine Learning Algorithms (NMLA),"feature selection
+mutual information
+global optimization","NMLA: Data Mining and Knowledge Discovery
+NMLA: Dimension Reduction/Feature Selection"
+13,Influence Maximization with Novelty Decay in Social Networks,AI and the Web (AIW),"social networks
+influence maximization
+novelty decay",AIW: Social networking and community identification
+14,Solving Uncertain MDPs by Reusing State Information and Plans,Planning and Scheduling (PS),"Markov Decision Processes (MDPs)
+Replanning
+Incremental Search
+Uncertain MDPs","PS: Probabilistic Planning
+PS: Replanning and Plan Repair
+PS: Planning (General/Other)"
+15,Identifying Differences in Physician Communication Styles with a Log-Linear Transition Component Model,"Applications (APP)
+Machine Learning Applications (MLA)
+NLP and Machine Learning (NLPML)","Conversation modeling
+Patient-doctor communication
+Sequential component model","APP: Biomedical / Bioinformatics
+MLA: Bio/Medicine
+MLA: Applications of Supervised Learning
+NLPML: Discourse and Dialogue"
+16,Multi-Organ Exchange: The Whole is Greater than the Sum of its Parts,"Applications (APP)
+Game Theory and Economic Paradigms (GTEP)
+Multiagent Systems (MAS)","Kidney exchange
+Sparse random graphs
+Computational economics","APP: Biomedical / Bioinformatics
+GTEP: Auctions and Market-Based Systems
+MAS: Mechanism Design"
+17,A Latent Variable Model for Discovering Bird Species Commonly Misidentified by Citizen Scientists,Computational Sustainability and AI (CSAI),"Probabilistic Graphical Model
+Crowdsourcing
+Citizen Science
+Ecology",CSAI: Modeling and prediction of dynamic and spatiotemporal phenomena and systems
+18,Cross-View Feature Learning for Scalable Social Image Analysis,AI and the Web (AIW),"Cross-View Learning
+Feature Learning
+Random Projection","AIW: AI for multimedia and multimodal web applications
+AIW: Enhancing web search and information retrieval
+AIW: Machine learning and the web"
+19,Semantic Graph Construction for Weakly-Supervised Image Parsing,Vision (VIS),"Weakly-Supervised Learning
+Image Parsing
+Graph Construction","VIS: Categorization
+VIS: Object Recognition"
+20,The Importance of Cognition and Affect for Artificially Intelligent Decision Makers,"Cognitive Modeling (CM)
+Cognitive Systems (CS)
+Humans and AI (HAI)","Mind perception
+cognition
+affect
+Decision making
+cooperation","CM: Simulating Humans
+CS: Problem solving and decision making
+HAI: Human-Computer Interaction
+HAI: Understanding People, Theories, Concepts and Methods"
+21,The Complexity of Reasoning with FODD and GFODD,Knowledge Representation and Reasoning (KRR),"Decision Diagrams
+Computational Complexity
+First Order Logic","KRR: Automated Reasoning and Theorem Proving
+KRR: Computational Complexity of Reasoning
+KRR: Knowledge Representation Languages"
+22,Scalable Complex Contract Negotiation With Structured Search and Agenda Management,Multiagent Systems (MAS),"Large-scale Negotiation
+Interdependent Issues
+Complex Contracts
+agenda management","MAS: Distributed Problem Solving
+MAS: Mechanism Design
+MAS: Multiagent Systems (General/other)
+SCS: Distributed CSP/Optimization"
+23,Manifold Learning for Jointly Modeling Topic and Visualization,Novel Machine Learning Algorithms (NMLA),"document visualization
+dimensionality reduction
+topic model
+manifold learning","NMLA: Data Mining and Knowledge Discovery
+NMLA: Dimension Reduction/Feature Selection
+NMLA: Graphical Model Learning
+NMLA: Unsupervised Learning (Other)"
+24,Constructing Symbolic Representations for High-Level Planning,Novel Machine Learning Algorithms (NMLA),"Reinforcement learning
+Planning
+Representation","NMLA: Reinforcement Learning
+PS: Learning Models for Planning and Diagnosis
+ROB: Cognitive Robotics"
+25,Towards Understanding Unscripted Gesture and Language Input for Human-Robot Interactions,"Humans and AI (HAI)
+NLP and Machine Learning (NLPML)
+Robotics (ROB)","Human-Robot Interaction
+Robotics
+Natural Language Processing
+ML classifier features","APP: Other Applications
+HAI: Language Acquisition
+MLA: Machine Learning Applications (General/other)
+NLPML: Natural Language Processing (General/Other)
+NMLA: Time-Series/Data Streams
+ROB: Human-Robot Interaction"
+26,Intelligent System for Urban Emergency Management During Large-scale Disaster,Computational Sustainability and AI (CSAI),"Emergency Management
+Disaster Informatics
+Human Mobility",CSAI: Modeling and prediction of dynamic and spatiotemporal phenomena and systems
+27,Cached Iterative Weakening for Optimal Multi-Way Number Partitioning,"Heuristic Search and Optimization (HSO)
+Planning and Scheduling (PS)
+Search and Constraint Satisfaction (SCS)","Heuristic Search
+Optimization
+Search
+Scheduling
+Constraint Optimization","HSO: Heuristic Search
+HSO: Optimization
+HSO: Search (General/Other)
+PS: Scheduling
+SCS: Constraint Satisfaction"
+28,Online Social Spammer Detection,"AI and the Web (AIW)
+Machine Learning Applications (MLA)","Social Media
+Social Spammer
+Online Learning","AIW: Machine learning and the web
+AIW: Recognizing web spam such as link farms and splogs
+AIW: Web personalization and user modeling
+MLA: Machine Learning Applications (General/other)
+NMLA: Data Mining and Knowledge Discovery
+NMLA: Online Learning"
+29,Modeling and Predicting Popularity Dynamics via Reinforced Poisson Process,Applications (APP),"Social Dynamics
+Poisson Process
+Popularity Prediction","APP: Computational Social Science
+APP: Social Networks"
+30,The Computational Rise and Fall of Fairness,Game Theory and Economic Paradigms (GTEP),"Fair division
+Computational social choice
+Envy-free allocation
+Phase transition",GTEP: Social Choice / Voting
+31,Type-based Exploration  for Satisficing Planning with Multiple Search Queues,"Heuristic Search and Optimization (HSO)
+Planning and Scheduling (PS)","Satisficing Planning
+Heuristic Search
+Greedy Best First Search","HSO: Heuristic Search
+PS: Deterministic Planning"
+32,Exact Subspace Clustering in Linear Time,Novel Machine Learning Algorithms (NMLA),"subspace clustering
+data selection
+scalable algorithm
+robust principal component analysis",NMLA: Clustering
+33,Robust Bayesian Inverse Reinforcement Learning with Sparse Behavior Noise,Novel Machine Learning Algorithms (NMLA),"Inverse reinforcement learning
+Robust model
+Sparse behavior noise
+Variational inference",NMLA: Reinforcement Learning
+34,Lazy Defenders Are Almost Optimal Against Diligent Attackers,Game Theory and Economic Paradigms (GTEP),"Security games
+Approximation
+Sampling","GTEP: Game Theory
+GTEP: Imperfect Information"
+35,PREGO: An Action Language for Belief-Based Cognitive Robotics in Continuous Domains,Knowledge Representation and Reasoning (KRR),"knowledge representation
+situation calculus
+cognitive robotics
+reasoning about beliefs
+action and change
+action languages","KRR: Action, Change, and Causality
+KRR: Knowledge Representation Languages
+KRR: Reasoning with Beliefs
+KRR: Knowledge Representation (General/Other)"
+36,Dropout Training for Support Vector Machines,"Machine Learning Applications (MLA)
+Novel Machine Learning Algorithms (NMLA)","Dropout traning
+Support Vector Machines
+Data Augmentation
+Feature Noising","MLA: Applications of Supervised Learning
+NMLA: Classification
+NMLA: Supervised Learning (Other)
+NMLA: Machine Learning (General/other)"
+37,Game-theoretic Resource Allocation for Protecting Large Public Events,"Applications (APP)
+Game Theory and Economic Paradigms (GTEP)
+Multiagent Systems (MAS)","Security
+Game Theory
+Stackelberg Games","APP: Security and Privacy
+GTEP: Game Theory
+MAS: Multiagent Systems (General/other)"
+38,Quality-based Learning for Web Data Classification,"AI and the Web (AIW)
+Machine Learning Applications (MLA)","Information quality
+Multi-task learning
+Web data classification","AIW: Machine learning and the web
+MLA: Applications of Supervised Learning"
+39,A Strategy-Proof Online Auction with Time Discounting Values,Game Theory and Economic Paradigms (GTEP),"Online Auction
+Mechanism Design
+Game Theory",GTEP: Auctions and Market-Based Systems
+40,ReLISH: Reliable Label Inference via Smoothness Hypothesis,Novel Machine Learning Algorithms (NMLA),"Semi-supervised learning
+Local smoothness
+Regularization","NMLA: Classification
+NMLA: Semisupervised Learning"
+41,"Parallel Materialisation of Datalog Programs in Centralised, Main-Memory RDF Systems","AI and the Web (AIW)
+Knowledge Representation and Reasoning (KRR)","datalog
+materialization
+fixpoint computation
+parallelism
+big data","AIW: Question answering on the web
+AIW: Representing, reasoning, and using provenance, trust, privacy, and security on the web
+KRR: Ontologies
+KRR: Automated Reasoning and Theorem Proving
+KRR: Logic Programming"
+42,Non-linear Label Ranking for Large-scale Prediction of Long-Term User Interests,"Machine Learning Applications (MLA)
+Novel Machine Learning Algorithms (NMLA)","Computational advertising
+Label ranking
+Online learning
+Large-scale learning
+Big data","MLA: Applications of Supervised Learning
+NMLA: Big Data / Scalability
+NMLA: Preferences/Ranking Learning"
+43,Efficient Object Detection via Adaptive Online Selection of Sensor-Array Elements,"Novel Machine Learning Algorithms (NMLA)
+Planning and Scheduling (PS)
+Reasoning under Uncertainty (RU)
+Vision (VIS)","object detection
+low power
+value of information
+adaptive submodular optimization
+online optimization","MLA: Machine Learning Applications (General/other)
+NMLA: Active Learning
+NMLA: Bayesian Learning
+PS: Probabilistic Planning
+PS: Temporal Planning
+RU: Bayesian Networks
+RU: Decision/Utility Theory
+RU: Probabilistic Inference
+RU: Sequential Decision Making
+VIS: Categorization
+VIS: Object Detection
+VIS: Statistical Methods and Learning
+VIS: Videos"
+44,Simultaneous Cake Cutting,Game Theory and Economic Paradigms (GTEP),"Cake cutting
+Fair division
+Computational social choice",GTEP: Social Choice / Voting
+45,Recovering from Selection Bias in Causal and Statistical Inference,"Knowledge Representation and Reasoning (KRR)
+Reasoning under Uncertainty (RU)","Causal Inference
+Causal Reasoning
+Do-calculus
+Causality
+Selection Bias
+Sampling Selection Bias
+Case-control studies
+Bias Removal
+Backdoor criterion","KRR: Action, Change, and Causality
+RU: Bayesian Networks
+RU: Uncertainty in AI (General/Other)"
+46,Semi-supervised Target Alignment via Label-Aware Base Kernels,Novel Machine Learning Algorithms (NMLA),"Semi-supervised Kernel Learning
+Eigenfunction Extrapolation
+Kernel Target Alignment
+Ideal Kernel","NMLA: Kernel Methods
+NMLA: Semisupervised Learning"
+47,Active Learning with Model Selection via Nested Cross-Validation,Humans and AI (HAI),"active learning
+model selection
+machine learning",NMLA: Active Learning
+48,Sketch Recognition with Natural Correction and Editing,"AI and the Web (AIW)
+Humans and AI (HAI)
+Machine Learning Applications (MLA)
+Vision (VIS)","Sketch Recognition
+Symbol Recognition
+User Interface
+Correction and Editing
+Shape Knowledge","AIW: Intelligent user interfaces for web systems
+HAI: Human-Computer Interaction
+HAI: Interaction Techniques and Devices
+MLA: Applications of Supervised Learning
+NMLA: Data Mining and Knowledge Discovery
+VIS: Object Recognition"
+49,Generalized Label Reduction for Merge-and-Shrink Heuristics,"Heuristic Search and Optimization (HSO)
+Planning and Scheduling (PS)","classical planning
+heuristic search
+merge-and-shrink abstractions
+label reduction","HSO: Heuristic Search
+HSO: Optimization
+HSO: Evaluation and Analysis (Search and Optimization)
+PS: Deterministic Planning"
+50,Predicting Emotions in User-Generated Videos,AI and the Web (AIW),"Emotion
+User-generated videos
+Multimodal features",AIW: AI for multimedia and multimodal web applications
+51,Emotion Classification in Microblog Texts Using Class Sequential Rules,AI and the Web (AIW),"Emotion Classification
+Chinese Microblogs
+Class Sequential Rules","AIW: Knowledge acquisition from the web
+AIW: Web-based opinion extraction and trend spotting"
+52,k-CoRating: Filling up Data to Obtain Privacy and Utility,"AI and the Web (AIW)
+Applications (APP)
+Novel Machine Learning Algorithms (NMLA)","Privacy-preserving Collaborative Filtering Recommender Systems
+Data Privacy
+Parallel Computing","AIW: Web-based recommendation systems
+APP: Security and Privacy
+NMLA: Recommender Systems"
+53,Adaptive Multi-Compositionality for Recursive Neural Models with Applications to Sentiment Analysis,NLP and Machine Learning (NLPML),"recursive neural network
+sentiment analysis
+semantic composition
+recursive neural model
+neural network
+deep learning",NLPML: Natural Language Processing (General/Other)
+54,Predicting the Hardness of Learning Bayesian Networks,"Heuristic Search and Optimization (HSO)
+Novel Machine Learning Algorithms (NMLA)","Bayesian networks
+structure learning
+algorithm portfolios
+empirical hardness models","HSO: Metareasoning and Metaheuristics
+HSO: Evaluation and Analysis (Search and Optimization)
+NMLA: Graphical Model Learning
+NMLA: Evaluation and Analysis (Machine Learning)"
+55,"Stochastic Privacy: Model, Methods, and Experiments",AI and the Web (AIW),"privacy tradeoff
+value of information
+online services
+web search personalization
+submodular optimization","AIW: Representing, reasoning, and using provenance, trust, privacy, and security on the web
+AIW: Web personalization and user modeling
+APP: Security and Privacy
+RU: Decision/Utility Theory"
+56,A Parameterized Complexity Analysis of Generalized CP-Nets,"Game Playing and Interactive Entertainment (GPIE)
+Knowledge Representation and Reasoning (KRR)","Computational social choice
+CP-nets
+Fixed-parameter tractable algorithms
+(Parameterized) complexity","GTEP: Social Choice / Voting
+KRR: Computational Complexity of Reasoning
+KRR: Preferences"
+57,Solving Imperfect Information Games Using Decomposition,Game Theory and Economic Paradigms (GTEP),"game theory
+equilibrium theory
+extensive-form games
+imperfect information games","GTEP: Game Theory
+GTEP: Equilibrium
+GTEP: Imperfect Information"
+58,Robust Visual Robot Localization Across Seasons using Network Flows,Robotics (ROB),"robotics
+visual localization
+seasons","ROB: Localization, Mapping, and Navigation"
+59,Small-variance Asymptotics for Dirichlet Process Mixtures of SVMs,Novel Machine Learning Algorithms (NMLA),"small-variance asymptotics
+Bayesian nonparametric modeling
+infinite SVM
+collapsed Gibbs sampling","NMLA: Bayesian Learning
+NMLA: Big Data / Scalability
+NMLA: Classification
+NMLA: Clustering"
+60,Online (Budgeted) Social Choice,Game Theory and Economic Paradigms (GTEP),"Online algorithms
+online learning
+approximation algorithms
+computational social choice","GTEP: Game Theory
+GTEP: Social Choice / Voting
+GTEP: Adversarial Learning
+GTEP: Imperfect Information
+MAS: E-Commerce"
+61,Using The Matrix Ridge Approximation to Speedup Determinantal Point Processes Sampling Algorithms,Novel Machine Learning Algorithms (NMLA),"kernel approximation
+determinantal point process (DPP)
+matrix ridge approximation (MRA)
+the Nystrom method","NMLA: Big Data / Scalability
+NMLA: Kernel Methods"
+62,TopicMF: Simultaneously Exploiting Ratings and Reviews for Recommendation,"AI and the Web (AIW)
+Knowledge Representation and Reasoning (KRR)","recommender system
+ratings and free-form reviews
+Non-negative matrix factorization","AIW: Web-based recommendation systems
+KRR: Preferences
+NMLA: Recommender Systems"
+63,OurAgent'13: A Champion Adaptive Power Trading Agent,"Applications (APP)
+Computational Sustainability and AI (CSAI)
+Game Theory and Economic Paradigms (GTEP)
+Machine Learning Applications (MLA)
+Multiagent Systems (MAS)
+Novel Machine Learning Algorithms (NMLA)
+Planning and Scheduling (PS)
+Reasoning under Uncertainty (RU)","Autonomous Electricity Trading Agents
+Machine Learning
+Reinforcement Learning
+Online Learning
+Smart Grid
+Trading agents competition
+Sustainable Energy","APP: Other Applications
+CSAI: Control and optimization of dynamic and spatiotemporal systems
+CSAI: Modeling and control of complex high-dimensional systems
+CSAI: Modeling the interactions of agents with different and often conflicting interests
+GTEP: Auctions and Market-Based Systems
+MLA: Environmental
+MLA: Applications of Supervised Learning
+MLA: Applications of Reinforcement Learning
+MAS: Multiagent Systems (General/other)
+NMLA: Reinforcement Learning
+PS: Markov Models of Environments
+RU: Sequential Decision Making"
+64,Fast and Accurate Influence Maximization on Large Networks with Pruned Monte-Carlo Simulations,AI and the Web (AIW),"influence maximization
+viral marketing
+independent cascade model
+social networks",AIW: Social networking and community identification
+65,Fixing a Balanced Knockout Tournament,Game Theory and Economic Paradigms (GTEP),"knockout tournaments
+tournament fixing problem
+manipulation","GTEP: Game Theory
+GTEP: Social Choice / Voting"
+66,Querying Inconsistent Description Logic Knowledge Bases under Preferred Repair Semantics,Knowledge Representation and Reasoning (KRR),"inconsistency-tolerant query answering
+complexity of query answering
+DL-Lite
+conjunctive queries","KRR: Ontologies
+KRR: Computational Complexity of Reasoning
+KRR: Description Logics
+KRR: Preferences"
+67,Incomplete Preferences in Single-Peaked Electorates,Game Theory and Economic Paradigms (GTEP),"Computational social choice
+Preferences
+Incomplete information
+Structure
+Single-peaked
+Algorithms","GTEP: Social Choice / Voting
+GTEP: Imperfect Information"
+68,Forecasting Potential Diabetes Complications,Applications (APP),"forecast diabetes complications
+feature sparseness
+sparse factor graph",APP: Biomedical / Bioinformatics
+69,Knowledge Graph Embedding by Translating on Hyperplanes,"Knowledge Representation and Reasoning (KRR)
+Machine Learning Applications (MLA)
+NLP and Knowledge Representation (NLPKR)
+Novel Machine Learning Algorithms (NMLA)
+Reasoning under Uncertainty (RU)","Knowledge Embedding
+Knowledge Graph
+Knowledge Reasoning
+Knowledge Completion
+Fact Extraction
+Representation Learning","KRR: Knowledge Representation (General/Other)
+MLA: Machine Learning Applications (General/other)
+NLPKR: Semantics and Summarization
+NLPTM: Information Extraction
+NMLA: Relational/Graph-Based Learning
+RU: Uncertainty Representations
+RU: Uncertainty in AI (General/Other)"
+70,A Control Dichotomy for Pure Scoring Rules,Game Theory and Economic Paradigms (GTEP),"voting systems
+computational social choice
+complexity
+scoring rules
+control of elections
+dichotomy theorems",GTEP: Social Choice / Voting
+71,Fast consistency checking of very large real-world RCC-8 constraint  networks using graph partitioning,"Knowledge Representation and Reasoning (KRR)
+Search and Constraint Satisfaction (SCS)","qualitative spatial reasoning
+consistency checking
+graph partitioning","KRR: Geometric, Spatial, and Temporal Reasoning
+KRR: Qualitative Reasoning
+SCS: Constraint Satisfaction"
+72,Encoding Tree Sparsity in Multi-Task Learning: A Probabilistic Framework,Novel Machine Learning Algorithms (NMLA),"Multi-Task Learning
+Sparsity
+Probabilistic Modeling","NMLA: Transfer, Adaptation, Multitask Learning"
+73,Efficient Generalized Fused Lasso with Application to the Diagnosis of Alzheimer’s Disease,"Machine Learning Applications (MLA)
+Novel Machine Learning Algorithms (NMLA)","Generalized Fused Lasso
+Alzhemier's Disease
+Parametric graph cut","MLA: Bio/Medicine
+NMLA: Dimension Reduction/Feature Selection
+NMLA: Relational/Graph-Based Learning
+NMLA: Structured Prediction"
+74,How Do Your Friends on Social Media Disclose Your Emotions?,Applications (APP),"emotion inference
+images and comments
+generative model",APP: Social Networks
+75,Contextually Supervised Source Separation with Application to Energy Disaggregation,"Computational Sustainability and AI (CSAI)
+Machine Learning Applications (MLA)","energy disaggregation
+convex optimization
+source separation","CSAI: Modeling and prediction of dynamic and spatiotemporal phenomena and systems
+MLA: Environmental
+MLA: Applications of Unsupervised Learning"
+76,The Computational Complexity of Structure-Based Causality,"Knowledge Representation and Reasoning (KRR)
+Reasoning under Uncertainty (RU)","Knowledge Representation and Reasoning
+Causal Models
+Structural Causality
+Complexity
+Strong Cause
+Actual Cause
+Polynomial Hierarchy","KRR: Action, Change, and Causality
+KRR: Computational Complexity of Reasoning
+KRR: Qualitative Reasoning
+KRR: Reasoning with Beliefs
+RU: Uncertainty Representations"
+77,Biased Games,Game Theory and Economic Paradigms (GTEP),"Equilibrium existence
+Equilibrium computation
+Solutions concepts","GTEP: Game Theory
+GTEP: Equilibrium"
+78,Grounding Acoustic Echoes In Single View Geometry Estimation,"Knowledge Representation and Reasoning (KRR)
+Machine Learning Applications (MLA)
+Vision (VIS)","Scene layout
+Scene understanding
+Acoustic echoes
+Room geometry","KRR: Geometric, Spatial, and Temporal Reasoning
+MLA: Applications of Supervised Learning
+MLA: Machine Learning Applications (General/other)
+VIS: Perception"
+79,Preference Elicitation and Interview Minimization in Stable Matchings,"Game Theory and Economic Paradigms (GTEP)
+Multiagent Systems (MAS)","Stable Matching
+Preference Elicitation
+Computational Social Choice","APP: Computational Social Science
+GTEP: Social Choice / Voting
+KRR: Preferences
+RU: Decision/Utility Theory"
+80,Placement of Loading Stations for Electric Vehicles: No Detours Necessary!,Computational Sustainability and AI (CSAI),"energy efficiency
+electric vehicles
+facility location","CSAI: Control and optimization of dynamic and spatiotemporal systems
+CSAI: Network modeling, prediction, and optimization."
+81,Extracting Keyphrases from Research Papers using Citation Networks,NLP and Text Mining (NLPTM),"CiteTextRank
+Citation Network
+PageRank","NLPTM: Information Extraction
+NLPTM: Natural Language Processing (General/Other)"
+82,Learning Parametric Models for Social Infectivity in Multi-dimensional Hawkes Processes,"AI and the Web (AIW)
+Applications (APP)
+Machine Learning Applications (MLA)","Social infectivity
+diffusion network
+Hawkes process
+time-varying feature","AIW: Machine learning and the web
+AIW: Social networking and community identification
+APP: Social Networks
+MLA: Networks
+NMLA: Time-Series/Data Streams"
+83,Sub-Selective Quantization for Large-Scale Image Search,"Machine Learning Applications (MLA)
+Vision (VIS)","subselection
+image retrieval
+binary embedding
+image hashing
+similarity search",VIS: Image and Video Retrieval
+84,Accurate Integration of Aerosol Predictions by Smoothing on a Manifold,Machine Learning Applications (MLA),"aerosol optical depth
+manifold
+Gaussian random field",MLA: Environmental
+85,Leveraging Decomposed Trust in Probabilistic Matrix Factorization for Effective Recommendation,AI and the Web (AIW),"multi-facet trust
+trust theory
+probabilistic matrix factorization
+rating prediction","AIW: Representing, reasoning, and using provenance, trust, privacy, and security on the web
+AIW: Web-based recommendation systems"
+86,Multi-Instance Learning with Distribution Change,Novel Machine Learning Algorithms (NMLA),"multi-instance learning
+covariate shift
+distribution change
+importance sampling",NMLA: Classification
+87,Minimising Undesired Task Costs in Multi-robot Task Allocation Problems with In-Schedule Dependencies,"Multiagent Systems (MAS)
+Robotics (ROB)","Multi-Robot Task Allocation
+Distributed Auctions
+Multi-Agent Systems
+Multi-Robot Systems
+Autonomous Systems
+Autonomous Robotics
+Market-Based Systems","GTEP: Auctions and Market-Based Systems
+MAS: Coordination and Collaboration
+MAS: Distributed Problem Solving
+ROB: Multi-Robot Systems"
+88,A Machine Learning Approach to Musically Meaningful Homogeneous Style Classification,Machine Learning Applications (MLA),"supervised machine learning
+music
+information retrieval
+style classification
+classical music","MLA: Humanities
+MLA: Applications of Supervised Learning
+MLA: Machine Learning Applications (General/other)"
+89,Learning Deep Representations for Graph Clustering,"Machine Learning Applications (MLA)
+Novel Machine Learning Algorithms (NMLA)","deep representations
+clustering on graph
+neural networks","MLA: Applications of Unsupervised Learning
+NMLA: Clustering
+NMLA: Neural Networks/Deep Learning
+NMLA: Relational/Graph-Based Learning"
+90,Fast Multi-Instance Multi-Label Learning,Novel Machine Learning Algorithms (NMLA),"Multi-instance multi-label learning
+Key instance
+Fast",NMLA: Classification
+91,Modeling and mining spatiotemporal patterns of infection risk from heterogeneous data for active surveillance planning,"Computational Sustainability and AI (CSAI)
+Novel Machine Learning Algorithms (NMLA)","active surveillance planning
+spatiotemporal data mining
+heterogeneous data mining","CSAI: Modeling and prediction of dynamic and spatiotemporal phenomena and systems
+CSAI: Control and optimization of dynamic and spatiotemporal systems
+NMLA: Data Mining and Knowledge Discovery"
+92,Symbolic Domain Predictive Control,Planning and Scheduling (PS),"planning
+control
+hybrid domains
+switched linear dynamic systems
+domain predictive control","PS: Deterministic Planning
+PS: Mixed Discrete/Continuous Planning
+PS: Planning (General/Other)"
+93,Can Agent Development Affect Developer's Strategy?,"Cognitive Modeling (CM)
+Humans and AI (HAI)","Decision-making
+Peer Designed Agents
+The Doors Game
+Simulating Humans","CM: Simulating Humans
+HAI: Understanding People, Theories, Concepts and Methods"
+94,Robust Distance Learning in the Presence of Label Noise,"Machine Learning Applications (MLA)
+Novel Machine Learning Algorithms (NMLA)","label noise
+robust neighbourhood components analysis
+distance learning","NMLA: Feature Construction/Reformulation
+NMLA: Supervised Learning (Other)
+NMLA: Machine Learning (General/other)"
+95,Exponential Deepening A* for Real-Time Agent-Centered Search,Heuristic Search and Optimization (HSO),"Heuristic Search
+Real-Time Search
+Agent-Centered Search","HSO: Heuristic Search
+HSO: Evaluation and Analysis (Search and Optimization)
+HSO: Search (General/Other)"
+96,Learning Low-Rank Representations with Classwise Block-Diagonal Structure for Robust Face Recognition,Vision (VIS),"Low-Rank Representations
+Classwise Block-Diagonal Structure
+Robust Face Recognition",CS: Structural learning and knowledge capture
+97,Congestion Games for V2G-Enabled EV Charging,"Computational Sustainability and AI (CSAI)
+Game Theory and Economic Paradigms (GTEP)
+Multiagent Systems (MAS)","Congestion games
+Potential games
+EV charging
+V2G","CSAI: Modeling the interactions of agents with different and often conflicting interests
+GTEP: Coordination and Collaboration
+MAS: Distributed Problem Solving"
+98,Accurate Household Occupant Behavior Modeling Based on Data Mining Techniques,"Machine Learning Applications (MLA)
+Multiagent Systems (MAS)","Household occupant behavior modeling
+Markov chain models
+Nearest Neighbor algorithm","MLA: Applications of Supervised Learning
+MLA: Machine Learning Applications (General/other)
+MAS: Agent-based Simulation and Emergent Behavior"
+99,Generating Content for Scenario-Based Serious-Games using CrowdSourcing,Game Playing and Interactive Entertainment (GPIE),"Scenario-Based Serious-Games
+Generated Content
+Crowd-Sourcing",GPIE: Procedural Content Generation
+100,A Tractable Approach to ABox Abduction over Description Logic Ontologies,Knowledge Representation and Reasoning (KRR),"ABox abduction
+abductive reasoning
+query abduction problem
+description logics
+first-order rewritable","KRR: Description Logics
+KRR: Diagnosis and Abductive Reasoning"
+101,User Group Oriented Dynamics Exploration,"AI and the Web (AIW)
+Machine Learning Applications (MLA)
+NLP and Knowledge Representation (NLPKR)","Social media
+temporal dynamics
+topic modeling
+user group","AIW: Human language technologies for web systems, including text summarization and machine translation
+AIW: Languages, tools, and methodologies for representing, managing, and visualizing semantic web data
+AIW: Machine learning and the web
+AIW: Web-based opinion extraction and trend spotting
+MLA: Networks
+NLPKR: Semantics and Summarization
+NLPKR: Natural Language Processing (General/Other)"
+102,Automatic Construction and Natural-Language Description of Nonparametric Regression Models,"Machine Learning Applications (MLA)
+Novel Machine Learning Algorithms (NMLA)","Automatic statistician
+gaussian processes
+regression
+bayesian
+summarization
+model description","MLA: Applications of Supervised Learning
+NMLA: Bayesian Learning
+NMLA: Kernel Methods
+NMLA: Time-Series/Data Streams"
+103,Capturing Difficulty Expressions in Student Online Q&A Discussions,"AI and the Web (AIW)
+Applications (APP)
+NLP and Machine Learning (NLPML)
+NLP and Text Mining (NLPTM)","Student online discussions
+dialog analysis (emotional or information roles)
+student performance prediction
+computational linguistic features
+educational data mining","AIW: Question answering on the web
+APP: Computer-Aided Education
+MLA: Machine Learning Applications (General/other)
+NLPML: Discourse and Dialogue
+NLPML: Text Classification"
+104,Lifting Relational MAP-LP Relaxations using Permutation Constraint Graphs,Reasoning under Uncertainty (RU),"Lifted Probabilistic Inference
+Statistical Relational Learning
+MAP Estimation
+Linear Programming
+Sherali-Adams Hierarchy","RU: Probabilistic Inference
+RU: Relational Probabilistic Models"
+105,Boosting SBDS for Partial Symmetry Breaking in Constraint Programming,Search and Constraint Satisfaction (SCS),"constraint satisfaction problems
+symmetry breaking
+SBDS","SCS: Constraint Satisfaction
+SCS: SAT and CSP: Modeling/Formulations
+SCS: Constraint Satisfaction (General/other)"
+106,Evolutionary dynamics of learning algorithms over the sequence form,"Game Theory and Economic Paradigms (GTEP)
+Multiagent Systems (MAS)","Game Theory
+Multiagent learning
+Evolutionary game theory","GTEP: Adversarial Learning
+GTEP: Equilibrium
+MAS: Multiagent Learning"
+107,Structured Possibilistic Planning using Decision Diagrams,"Knowledge Representation and Reasoning (KRR)
+Planning and Scheduling (PS)
+Reasoning under Uncertainty (RU)","Qualitative Planning under Uncertainty
+Symbolic Planning with Decision Diagrams
+Possibilistic (PO)MDPs
+Mixed Observability","KRR: Qualitative Reasoning
+KRR: Reasoning with Beliefs
+PS: Markov Models of Environments
+PS: Probabilistic Planning
+PS: Planning (General/Other)
+RU: Graphical Models (Other)
+RU: Decision/Utility Theory
+RU: Sequential Decision Making
+RU: Uncertainty Representations
+RU: Uncertainty in AI (General/Other)"
+108,Labeling Complicated Objects: Multi-View Multi-Instance Multi-Label Learning,Machine Learning Applications (MLA),"multi-view learning.
+multi-instance multi-label learning.
+partial examples.","AIW: AI for multimedia and multimodal web applications
+MLA: Applications of Supervised Learning
+MLA: Machine Learning Applications (General/other)"
+109,Reasoning on LTL on Finite Traces: Insensitivity to Infiniteness,Knowledge Representation and Reasoning (KRR),"Linear Temporal Logic
+Finite Traces
+Reasoning about Actions
+Trajectory Constraints in Planning
+Logic-Based Process and Service Modelling","AIW: AI for web services: semantic descriptions, planning, matching, and coordination
+KRR: Action, Change, and Causality
+PS: Temporal Planning"
+110,A Game-theoretic Analysis of Catalog Optimization,"Game Theory and Economic Paradigms (GTEP)
+Knowledge Representation and Reasoning (KRR)","Competitive assortment optimization
+Nash equilibrium
+Price of Stability
+Computational social choice","GTEP: Auctions and Market-Based Systems
+GTEP: Game Theory
+GTEP: Social Choice / Voting
+GTEP: Equilibrium
+GTEP: Imperfect Information
+KRR: Preferences
+KRR: Reasoning with Beliefs
+MAS: E-Commerce"
+111,Linear-Time Filtering Algorithms for the Disjunctive Constraint,"Knowledge Representation and Reasoning (KRR)
+Planning and Scheduling (PS)","Constraint programming
+Scheduling
+Global constraints
+Filtering algorithms
+Disjunctive constraint","PS: Scheduling
+SCS: Constraint Satisfaction
+SCS: Global Constraints
+SCS: Constraint Satisfaction (General/other)"
+112,Low-Rank Tensor Completion with Discriminant Analysis for Action Classification,"Machine Learning Applications (MLA)
+Vision (VIS)","low-rank
+tensor
+action recognition
+discriminant analysis","MLA: Applications of Supervised Learning
+VIS: Face and Gesture Recognition
+VIS: Videos"
+113,Programming by Example using Least General Generalizations,"Applications (APP)
+Heuristic Search and Optimization (HSO)
+Knowledge Representation and Reasoning (KRR)","Programming by example
+Inductive inference
+XML transformations
+Program synthesis
+Document editing interfaces","APP: Intelligent User Interfaces
+APP: Other Applications
+HSO: Search (General/Other)
+KRR: Knowledge Representation Languages
+KRR: Knowledge Representation (General/Other)"
+114,Give a Hard Problem to a Diverse Team: Exploring Large Action Spaces,Multiagent Systems (MAS),"Team formation
+Coordination & Collaboration
+Distributed AI",MAS: Coordination and Collaboration
+115,A Simple Polynomial-Time Randomized Distributed Algorithm for Connected Row Convex Constraints,"Multiagent Systems (MAS)
+Search and Constraint Satisfaction (SCS)","Connected Row Convex Constraints
+Distributed CSP
+Randomized Algorithms","MAS: Distributed Problem Solving
+SCS: Distributed CSP/Optimization"
+116,SUIT: A Supervised User-Item based Topic model for Sentiment Analysis,NLP and Text Mining (NLPTM),"topic model
+sentiment analysis
+review rating","AIW: Web-based opinion extraction and trend spotting
+NLPTM: Information Extraction"
+117,Automatic Game Design via Mechanic Generation,Game Playing and Interactive Entertainment (GPIE),"procedural content generation
+game generation
+game mechanics","GPIE: AI in Game Design
+GPIE: Procedural Content Generation"
+118,Learning the Structure of Probabilistic Graphical Models with an Extended Cascading Indian Buffet Process,Novel Machine Learning Algorithms (NMLA),"Structure learning
+Bayesian Learning
+Bayesian nonparametrics
+Graphical models
+Deep belief networks
+Infinite directed acyclic graphs
+MCMC inference","NMLA: Bayesian Learning
+NMLA: Data Mining and Knowledge Discovery
+NMLA: Graphical Model Learning
+RU: Bayesian Networks
+RU: Graphical Models (Other)"
+119,Learning Compositional Sparse Models of Bimodal Percepts,"Cognitive Systems (CS)
+Novel Machine Learning Algorithms (NMLA)
+Vision (VIS)","compositional model
+bimodal sparse representation
+vision and audio","CS: Structural learning and knowledge capture
+NMLA: Dimension Reduction/Feature Selection
+VIS: Language and Vision"
+120,Dramatis: A Computational Model of Suspense,"Applications (APP)
+Game Playing and Interactive Entertainment (GPIE)","computational creativity
+psychological models
+computational aesthetics","APP: Art and Music
+GPIE: AI Storytelling
+GPIE: Computational Creativity and Generative Art"
+121,LASS: A Simple Assignment Model with Laplacian Smoothing,Novel Machine Learning Algorithms (NMLA),"semi-supervised learning
+convex optimization
+ADMM
+soft assignment
+Laplacian smoothing","HSO: Optimization
+NMLA: Semisupervised Learning
+RU: Uncertainty in AI (General/Other)"
+122,Learning Goal-Oriented Hierarchical Tasks from Situated Interactive Instruction,Cognitive Systems (CS),"task learning
+interactive learning
+explanation-based learning
+situated interactive instruction
+learning for robots
+learning from dialog
+Soar
+cognitive architecture","CM: Agent Architectures
+CM: Symbolic AI
+CS: Social cognition and interaction
+CS: Structural learning and knowledge capture"
+123,Chance-constrained Probabilistic Simple Temporal Problems,"Planning and Scheduling (PS)
+Reasoning under Uncertainty (RU)
+Search and Constraint Satisfaction (SCS)","scheduling
+probabilistic
+STNU","PS: Probabilistic Planning
+PS: Scheduling
+PS: Temporal Planning
+SCS: Constraint Optimization"
+124,False-Name Bidding and Economic Efficiency in Combinatorial Auctions,"Game Theory and Economic Paradigms (GTEP)
+Multiagent Systems (MAS)
+Reasoning under Uncertainty (RU)","- GTEP: Auctions and Market-Based Systems
+- GTEP: Equilibrium
+- MAS: E-Commerce
+- MAS: Mechanism Design","GTEP: Auctions and Market-Based Systems
+GTEP: Game Theory
+GTEP: Equilibrium
+GTEP: Imperfect Information
+MAS: E-Commerce
+MAS: Evaluation and Analysis (Multiagent Systems)
+RU: Decision/Utility Theory"
+125,Exploiting Competition Relationship for Robust Visual Recognition,"Applications (APP)
+Machine Learning Applications (MLA)
+Vision (VIS)","Competition relationships
+jointly learning
+visual recognition","APP: Other Applications
+MLA: Applications of Supervised Learning
+VIS: Categorization"
+126,Power Iterated Color Refinement,"Novel Machine Learning Algorithms (NMLA)
+Reasoning under Uncertainty (RU)","Lifted Belief Propagation
+Color Refinement
+Fractional Automorphism
+Conditional Gradient
+Power Iteration
+Continuous Optimization","NMLA: Relational/Graph-Based Learning
+RU: Relational Probabilistic Models"
+127,A Framework for Task Planning in Heterogeneous Multi Robot Systems Based on Robot Capabilities,"Planning and Scheduling (PS)
+Robotics (ROB)","Robot Task Planning
+Temporal Planning
+Heterogeneous Multi Robot Systems
+Robot capabilities","PS: Temporal Planning
+PS: Planning (General/Other)
+ROB: Multi-Robot Systems
+ROB: Robotics (General/Other)"
+128,Active Learning Using Knowledge Transfer from Unlabeled Data,Novel Machine Learning Algorithms (NMLA),"Active learning
+Multiple labelers
+Knowledge transfer",NMLA: Active Learning
+129,Using Model-Based Diagnosis to Improve Software Testing,"Applications (APP)
+Knowledge Representation and Reasoning (KRR)
+Planning and Scheduling (PS)","Model based diagnosis
+Software engineering
+Planning
+Testing","APP: Other Applications
+KRR: Automated Reasoning and Theorem Proving
+KRR: Diagnosis and Abductive Reasoning
+PS: Model-Based Reasoning"
+130,Wormhole Hamiltonian Monte Carlo,Novel Machine Learning Algorithms (NMLA),"Bayesian Inference
+Computational Statistics
+Markov Chain Monte Carlo
+Multimodal Distributions
+Geometric Methods","NMLA: Bayesian Learning
+NMLA: Machine Learning (General/other)"
+131,Pay-as-you-go OWL Query Answering Using a Triple Store,"AI and the Web (AIW)
+Knowledge Representation and Reasoning (KRR)","OWL
+ontologies
+triple store","AIW: Searching, querying, visualizing, and interpreting the semantic web
+KRR: Ontologies
+KRR: Automated Reasoning and Theorem Proving
+KRR: Description Logics"
+132,Imitation Learning with Demonstrations and Shaping Rewards,Reasoning under Uncertainty (RU),"Imitation Learning
+Reinforcement Learning
+Reward Shaping",RU: Sequential Decision Making
+133,Spectral Thompson Sampling,"Novel Machine Learning Algorithms (NMLA)
+Reasoning under Uncertainty (RU)","Spectral bandits
+Thompson Sampling
+Smooth functions on graphs","NMLA: Online Learning
+NMLA: Recommender Systems
+RU: Sequential Decision Making"
+134,Mechanism Design for Scheduling with Uncertain Execution Time.,"Game Theory and Economic Paradigms (GTEP)
+Multiagent Systems (MAS)","mechanism design
+scheduling mechanisms
+game theory
+uncertainity","GTEP: Auctions and Market-Based Systems
+GTEP: Game Theory
+MAS: Mechanism Design"
+135,Robust Winners and Winner Determination Policies under Candidate Uncertainty,"Game Theory and Economic Paradigms (GTEP)
+Multiagent Systems (MAS)","voting
+candidate availability
+query policies
+robust winner determination","APP: Computational Social Science
+GTEP: Social Choice / Voting"
+136,Learning Latent Engagement Patterns of Students in Online Courses,"Applications (APP)
+Machine Learning Applications (MLA)","probabilistic modeling
+structured prediction
+data-driven methods in education
+MOOC
+online education","APP: Computer-Aided Education
+HAI: Understanding People, Theories, Concepts and Methods
+MLA: Machine Learning Applications (General/other)"
+137,Semantic Segmentation Using Multiple Graphs with Block-Diagonal Constraints,"Machine Learning Applications (MLA)
+Novel Machine Learning Algorithms (NMLA)
+Vision (VIS)","Image Semantic Segmentation
+Block-Diagonal Constraints
+MultiView Affinity Graph","MLA: Applications of Supervised Learning
+NMLA: Classification
+NMLA: Relational/Graph-Based Learning
+VIS: Categorization
+VIS: Object Detection
+VIS: Object Recognition
+VIS: Statistical Methods and Learning"
+138,Parametrized Families of Hard Planning Problems from Phase Transitions,Planning and Scheduling (PS),"parametrized families
+scaling analysis
+phase transition
+benchmark planning problems","PS: Scheduling
+PS: Planning (General/Other)"
+139,On Dataless Hierarchical Text Classification,NLP and Machine Learning (NLPML),"Hierarchical Text Classification
+Dataless Text Classification
+Semantic Representation",NLPML: Text Classification
+140,Confident Reasoning on Raven’s Progressive Matrices Tests,Knowledge Representation and Reasoning (KRR),"Visual Representations
+Reasoning
+Analogy","KRR: Geometric, Spatial, and Temporal Reasoning
+KRR: Knowledge Representation (General/Other)"
+141,The Role of Dimensionality Reduction in Linear Classification,Novel Machine Learning Algorithms (NMLA),"dimensionality reduction
+nonlinear classification
+optimization","HSO: Optimization
+NMLA: Classification
+NMLA: Dimension Reduction/Feature Selection"
+142,Generalizing Policy Advice with Gaussian Process Bandits for Dynamic Skill Improvement,"Heuristic Search and Optimization (HSO)
+Humans and AI (HAI)
+Machine Learning Applications (MLA)
+Reasoning under Uncertainty (RU)
+Robotics (ROB)","robot table tennis
+gaussian process bandits
+human advice
+coaching robots","HSO: Heuristic Search
+HAI: Human-Computer Interaction
+MLA: Machine Learning Applications (General/other)
+RU: Decision/Utility Theory
+RU: Sequential Decision Making
+ROB: Robotics (General/Other)"
+143,Deep Modeling of Group Preferences for Group-based Recommendation,"AI and the Web (AIW)
+Novel Machine Learning Algorithms (NMLA)","Group Recommender System
+Deep Learning
+Feature Learning
+Deep Belief Network
+Restricted Boltzmann Machine","AIW: Web-based recommendation systems
+NMLA: Preferences/Ranking Learning
+NMLA: Recommender Systems"
+144,Cross-Domain Metric Learning Based on Information Theory,Novel Machine Learning Algorithms (NMLA),"Mahalanobis distance
+metric learning
+transfer learning
+relative entropy","NMLA: Transfer, Adaptation, Multitask Learning"
+145,Spatial Scan for Disease Mapping on a Mobile Population,"Applications (APP)
+Computational Sustainability and AI (CSAI)
+Machine Learning Applications (MLA)","disease mapping
+spatial scan
+mobile data","APP: AI and Natural Sciences
+CSAI: Modeling and prediction of dynamic and spatiotemporal phenomena and systems
+CSAI: Control and optimization of dynamic and spatiotemporal systems
+MLA: Machine Learning Applications (General/other)
+NMLA: Machine Learning (General/other)"
+146,Identifying Hierarchies for Fast Optimal Search,Heuristic Search and Optimization (HSO),"Hierarchical search
+Path planning
+Subgoals",HSO: Heuristic Search
+147,On Boosting Sparse Parities,Novel Machine Learning Algorithms (NMLA),"choosing weak learners
+boosting
+parity functions","NMLA: Ensemble Methods
+NMLA: Machine Learning (General/other)"
+148,Decentralized Stochastic Planning with Anonymity in Interactions,"Multiagent Systems (MAS)
+Planning and Scheduling (PS)
+Reasoning under Uncertainty (RU)","Planning under uncertainty
+Multiagent Systems
+DEC-MDP
+Optimization","PS: Markov Models of Environments
+RU: Decision/Utility Theory
+RU: Uncertainty in AI (General/Other)"
+149,Regret Transfer and Parameter Optimization,Game Theory and Economic Paradigms (GTEP),"Large Incomplete-Information Games
+Poker
+Game Solving
+No-Regret Learning
+Counterfactual Regret Minimization
+Regret Matching
+Regret Minimization","GTEP: Game Theory
+GTEP: Equilibrium
+GTEP: Imperfect Information"
+150,Learning with Augmented Class by Exploiting Unlabeled Data,Novel Machine Learning Algorithms (NMLA),"open set classification
+unlabeled data
+support vector machines",NMLA: Classification
+151,Locality-constrained Low-rank Coding for Image Classification,Vision (VIS),"Bag-of-words Model
+Mid-level Representations
+Locality Coding
+Low-rank Coding
+Inexact Augmented Lagrange Multiplier","VIS: Categorization
+VIS: Face and Gesture Recognition
+VIS: Object Recognition"
+152,Qualitative Planning with Quantitative Constraints for Online Learning of Robotic Behaviours,"Cognitive Systems (CS)
+Robotics (ROB)","Robotics
+Online Machine Learning
+Multi-Strategy Architecture
+Qualitative Reasoning
+Qualitative Planning","CS: Problem solving and decision making
+ROB: Behavior and Control
+ROB: Motion and Path Planning
+ROB: Robotics (General/Other)"
+153,Regret-Based Multi-Agent Coordination with Uncertain Task Rewards,Multiagent Systems (MAS),"Multi-Agent Coordination
+Uncertain Task Rewards
+DCOP","MAS: Coordination and Collaboration
+MAS: Distributed Problem Solving"
+154,Convex Co-embedding,Novel Machine Learning Algorithms (NMLA),"convex relaxation
+matrix norm regularization
+relation learning
+representation learning","NMLA: Dimension Reduction/Feature Selection
+NMLA: Relational/Graph-Based Learning
+NMLA: Supervised Learning (Other)"
+155,Optimal Decoupling in Linear Constraint Systems,"Heuristic Search and Optimization (HSO)
+Multiagent Systems (MAS)
+Planning and Scheduling (PS)
+Search and Constraint Satisfaction (SCS)","temporal decoupling
+constraint solving
+linear programming
+flexibility","HSO: Optimization
+MAS: Distributed Problem Solving
+MAS: Multiagent Planning
+PS: Scheduling
+PS: Temporal Planning
+PS: Planning (General/Other)
+SCS: Constraint Satisfaction
+SCS: Constraint Optimization
+SCS: Global Constraints
+SCS: Constraint Satisfaction (General/other)"
+156,Who also likes it? Generating the most Persuasive Social Explanations in Recommender Systems,AI and the Web (AIW),"Recommendation Explanation
+Social Explanation
+Social Network","AIW: Social networking and community identification
+AIW: Web-based recommendation systems"
+157,Computing Contingent Plans via Fully Observable Non-Deterministic Planning,Planning and Scheduling (PS),"contingent planning
+conditional planning
+partial observability
+planning and sensing
+offline planning
+FOND","PS: Deterministic Planning
+PS: Planning (General/Other)"
+158,Instance-based Domain Adaptation in NLP via In-target-domain Logistic Approximation,"NLP and Machine Learning (NLPML)
+Novel Machine Learning Algorithms (NMLA)","domain adaptation
+instance adaptation
+instance-based adaptation
+density-ratio estimation
+text categorization
+sentiment classification","NLPML: Text Classification
+NLPML: Natural Language Processing (General/Other)
+NMLA: Transfer, Adaptation, Multitask Learning"
+159,Ordering Effects and Belief Adjustment in the Use of Comparison Shopping Agents,Humans and AI (HAI),"comparison shopping agents
+belief-adjustment
+ordering
+experimentation
+eCommerce",HAI: Human-Computer Interaction
+160,Scalable sparse covariance estimation via self-concordance,"Machine Learning Applications (MLA)
+Novel Machine Learning Algorithms (NMLA)","Inexact proximal Newton methods
+Sparse covariance estimation
+Self-concordance property","MLA: Machine Learning Applications (General/other)
+NMLA: Big Data / Scalability
+NMLA: Data Mining and Knowledge Discovery
+NMLA: Graphical Model Learning"
+161,Trading Multiple Indivisible Goods with Indifferences: Beyond Sönmez's Result,Game Theory and Economic Paradigms (GTEP),"Mechanism design
+Exchange
+Indifference
+Pareto efficiency
+Strategy-proofness
+Individual rationality","GTEP: Game Theory
+GTEP: Social Choice / Voting
+MAS: E-Commerce
+MAS: Mechanism Design"
+162,SenticNet 3: A Common and Common-Sense Knowledge Base for Cognition-Driven Sentiment Analysis,"Cognitive Systems (CS)
+Knowledge Representation and Reasoning (KRR)
+NLP and Knowledge Representation (NLPKR)","concept-level sentiment analysis
+natural language processing
+common-sense reasoning","CS: Conceptual inference and reasoning
+KRR: Common-Sense Reasoning
+KRR: Knowledge Representation (General/Other)
+NLPKR: Natural Language Processing (General/Other)"
+163,Combining Multiple Correlated Reward and Shaping Signals by Measuring Confidence,Novel Machine Learning Algorithms (NMLA),"Reinforcement Learning
+Reward Shaping
+Multi-Objective Optimization
+Traffic Light Control
+Pursuit Domain",NMLA: Reinforcement Learning
+164,Avoiding Plagiarism in Markov Sequence Generation,"Machine Learning Applications (MLA)
+Search and Constraint Satisfaction (SCS)","markov chains
+plagiarism
+constraint satisfaction
+global constraints","APP: Art and Music
+MLA: Machine Learning Applications (General/other)
+SCS: Constraint Satisfaction
+SCS: Global Constraints
+SCS: Constraint Satisfaction (General/other)"
+165,A Region-Based Model for Estimating Urban Air Pollution,"Computational Sustainability and AI (CSAI)
+Machine Learning Applications (MLA)","Spatial Reasoning
+Computational Sustainability
+Gaussian Process
+Urban Air Quality","CSAI: Modeling and prediction of dynamic and spatiotemporal phenomena and systems
+MLA: Environmental"
+166,Item Bidding  for Combinatorial Public Projects,"Game Theory and Economic Paradigms (GTEP)
+Multiagent Systems (MAS)","Public Project
+Mechanisms
+Valuation Function
+Social Welfare
+Nash Equilibrium
+Strong Equilibrium
+Price of Anarchy","GTEP: Game Theory
+GTEP: Coordination and Collaboration
+GTEP: Equilibrium
+MAS: Coordination and Collaboration
+MAS: Mechanism Design"
+167,How Long Will It Take? Accurate Prediction of Ontology Reasoning Performance,AI and the Web (AIW),"Ontology
+Reasoning performance
+Semantic Web
+Prediction
+Regression
+Performance hotspot detection","AIW: Ontologies and the web: creation, extraction, evolution, mapping, merging, and alignment; tags and folksonomies"
+168,Backdoors to Planning,"Knowledge Representation and Reasoning (KRR)
+Planning and Scheduling (PS)","Planning
+Backdoors
+Fixed-parameter tractable algorithms
+(Parameterized) complexity","KRR: Computational Complexity of Reasoning
+PS: Deterministic Planning"
+169,Dynamic Multi-Agent Task Allocation with Spatial and Temporal Constraints,Multiagent Systems (MAS),"Task Allocation
+Dynamic Problem
+Cooperative Agents","MAS: Coordination and Collaboration
+MAS: Distributed Problem Solving"
+170,Datalog Rewritability of Disjunctive Datalog Programs and its Applications to Ontology Reasoning,Knowledge Representation and Reasoning (KRR),"disjunctive datalog
+tractable reasoning
+ontology-based query answering
+OWL 2","KRR: Ontologies
+KRR: Automated Reasoning and Theorem Proving
+KRR: Computational Complexity of Reasoning
+KRR: Description Logics
+KRR: Knowledge Representation Languages
+KRR: Logic Programming"
+171,Increasing VCG revenue by decreasing the quality of items,"Game Theory and Economic Paradigms (GTEP)
+Multiagent Systems (MAS)","auctions
+mechanism design
+VCG
+revenue maximization","GTEP: Auctions and Market-Based Systems
+MAS: Mechanism Design"
+172,Grandpa Hates Robots - Interaction Constraints for Planning in Inhabited Environments,"Knowledge Representation and Reasoning (KRR)
+Planning and Scheduling (PS)
+Search and Constraint Satisfaction (SCS)","Constraint-based planning
+Planning in inhabited environments
+Human-aware planning","KRR: Preferences
+PS: Scheduling
+PS: Temporal Planning
+PS: Planning (General/Other)
+SCS: Constraint Satisfaction (General/other)"
+173,The Most Uncreative Examinee: A First Step toward Wide Coverage Natural Language Math Problem Solving,Knowledge Representation and Reasoning (KRR),"natural language semantics
+mathematical problem solving
+automated reasoning
+computer algebra",KRR: Automated Reasoning and Theorem Proving
+174,Acquiring Commonsense Knowledge for Sentiment Analysis through Human Computation,"Human-Computation and Crowd Sourcing (HCC)
+Knowledge Representation and Reasoning (KRR)
+NLP and Machine Learning (NLPML)","human computation
+games with a purpose
+crowdsourcing
+commonsense knowledge
+sentiment analysis
+context","HCC: Domain-specific implementation challenges in human computation games
+KRR: Knowledge Acquisition
+NLPML: Text Classification"
+175,Optimistic Adaptive Submodularity at Scale,"Machine Learning Applications (MLA)
+Novel Machine Learning Algorithms (NMLA)
+Planning and Scheduling (PS)
+Reasoning under Uncertainty (RU)","Submodularity
+Adaptive submodularity
+Linear bandits
+Online learning","APP: Other Applications
+MLA: Machine Learning Applications (General/other)
+NMLA: Active Learning
+NMLA: Online Learning
+NMLA: Recommender Systems
+PS: Planning (General/Other)
+RU: Sequential Decision Making"
+176,Sequential Click Prediction for Sponsored Search with Recurrent Neural Networks,Machine Learning Applications (MLA),"Sponsored Search
+Recurrent Neural Network
+Sequential Click Prediction","AIW: Enhancing web search and information retrieval
+AIW: Machine learning and the web
+MLA: Applications of Supervised Learning
+MLA: Machine Learning Applications (General/other)"
+177,Backdoors into Heterogeneous Classes of SAT and CSP,Search and Constraint Satisfaction (SCS),"theoretical analysis
+Constraint Satisfaction Problem (CSP)
+Satisfiability (SAT)
+polymorphism
+backdoor set
+parameterized complexity","KRR: Computational Complexity of Reasoning
+SCS: Constraint Satisfaction
+SCS: Satisfiability (General/Other)
+SCS: Constraint Satisfaction (General/other)"
+178,Theory of Cooperation in Complex Social Networks,"Game Theory and Economic Paradigms (GTEP)
+Multiagent Systems (MAS)","coevolutionary networks
+evolution of cooperation
+influencing social networks","GTEP: Game Theory
+GTEP: Coordination and Collaboration
+GTEP: Equilibrium
+MAS: Agent-based Simulation and Emergent Behavior
+MAS: Coordination and Collaboration
+MAS: Evaluation and Analysis (Multiagent Systems)"
+179,Explanation-Based Approximate Weighted Model Counting for Probabilistic Logics,"Knowledge Representation and Reasoning (KRR)
+Reasoning under Uncertainty (RU)","Probabilistic Logic Programming
+Bounded Approximate Inference
+Weighted Model Counting","KRR: Logic Programming
+RU: Probabilistic Inference
+RU: Relational Probabilistic Models"
+180,A Knowledge Compilation Map for Ordered Real-Valued Decision Diagrams,Knowledge Representation and Reasoning (KRR),"Decision Diagrams (ADD - AADD - OBDD - SLDD)
+Knowledge Compilation
+Complexity","KRR: Computational Complexity of Reasoning
+KRR: Knowledge Representation Languages
+KRR: Preferences
+SCS: Constraint Optimization"
+181,Prices Matter for the Parameterized Complexity of Shift Bribery,"Game Theory and Economic Paradigms (GTEP)
+Multiagent Systems (MAS)","preferenced-based voting
+campaign management
+computational (in)tractability
+parameterized complexity analysis
+approximation","GTEP: Game Theory
+GTEP: Social Choice / Voting
+MAS: E-Commerce"
+182,Decomposing Activities of Daily Living to Discover Routine Clusters,Machine Learning Applications (MLA),"activity recognition
+activities of daily living
+time series clustering
+low rank and sparse matrix decomposition","MLA: Applications of Unsupervised Learning
+MLA: Machine Learning Applications (General/other)"
+183,On Hair Recognition in the Wild by Machine,Vision (VIS),"Vision
+Biometrics
+Face Recognition","VIS: Face and Gesture Recognition
+VIS: Statistical Methods and Learning"
+184,Capturing Relational Schemas and Functional Dependencies in RDFS,"AI and the Web (AIW)
+Knowledge Representation and Reasoning (KRR)","identification constraints
+functional dependencies
+normal forms","AIW: Ontologies and the web: creation, extraction, evolution, mapping, merging, and alignment; tags and folksonomies
+KRR: Description Logics
+KRR: Knowledge Representation (General/Other)"
+185,Maximum Satisfiability using core-guided MaxSAT Resolution,Search and Constraint Satisfaction (SCS),"maximum satisfiability
+maxsat resolution
+iterative SAT solving
+weighted partial MaxSAT","SCS: Constraint Optimization
+SCS: SAT and CSP: Evaluation and Analysis
+SCS: SAT and CSP: Solvers and Tools
+SCS: Satisfiability (General/Other)"
+186,Mind the Gap: Machine Translation by Minimizing the Semantic Gap in Embedding Space,"NLP and Knowledge Representation (NLPKR)
+NLP and Machine Learning (NLPML)","Statistical Machine Translation
+Semantic Phrase Representation
+Recursive Neural Networks
+Semantic Gap Minimization","NLPKR: Natural Language Processing (General/Other)
+NLPML: Natural Language Processing (General/Other)"
+187,Rounded Dynamic Programming for Tree-Structured Stochastic Network Design,"Computational Sustainability and AI (CSAI)
+Heuristic Search and Optimization (HSO)
+Planning and Scheduling (PS)","stochastic network design
+dynamic programming
+barrier removal
+river networks
+influence maximization
+stochastic optimization","CSAI: Modeling and prediction of dynamic and spatiotemporal phenomena and systems
+CSAI: Control and optimization of dynamic and spatiotemporal systems
+CSAI: Network modeling, prediction, and optimization.
+HSO: Optimization
+PS: Probabilistic Planning"
+188,Incentives for Truthful Information Elicitation of Continuous Signals,"Game Theory and Economic Paradigms (GTEP)
+Human-Computation and Crowd Sourcing (HCC)
+Multiagent Systems (MAS)","Mechanism Design
+Information elicitation
+Peer prediction","GTEP: Game Theory
+GTEP: Equilibrium
+GTEP: Imperfect Information
+HCC: Game-theoretic mechanism design of incentives for motivation and honest reporting
+MAS: E-Commerce
+MAS: Mechanism Design
+MAS: Multiagent Systems (General/other)"
+189,Equilibria in Epidemic Containment Games,"Applications (APP)
+Computational Sustainability and AI (CSAI)
+Game Theory and Economic Paradigms (GTEP)
+Multiagent Systems (MAS)","network security game
+nash equilibria
+malware propagation
+epidemic control
+security
+protection
+network infection
+immunization
+graph theory
+game theory
+spectral radius","APP: Security and Privacy
+CSAI: Modeling the interactions of agents with different and often conflicting interests
+GTEP: Game Theory
+GTEP: Equilibrium
+MAS: Evaluation and Analysis (Multiagent Systems)
+MAS: Multiagent Systems (General/other)"
+190,Beat the Cheater: Computing Game-Theoretic Strategies for When to Kick a Gambler out of a Casino,"Game Theory and Economic Paradigms (GTEP)
+Multiagent Systems (MAS)","Security
+Stackelberg
+Gambling
+Game Theory","GTEP: Game Theory
+GTEP: Equilibrium
+GTEP: Imperfect Information"
+191,A Characterization of the Single-Peaked Single-Crossing Domain,"Game Theory and Economic Paradigms (GTEP)
+Multiagent Systems (MAS)","elections
+voting
+single-peaked
+single-crossing
+1-Euclidean
+proportional representation
+Monroe
+algorithms","GTEP: Game Theory
+GTEP: Social Choice / Voting
+MAS: E-Commerce"
+192,A Support-Based Algorithm for the Bi-Objective Pareto Constraint,Search and Constraint Satisfaction (SCS),"Constraint Programming
+Bi-Objective Combinatorial Optimization
+Global Constraint
+Pareto Constraint","SCS: Constraint Satisfaction
+SCS: Constraint Optimization
+SCS: Global Constraints"
+193,HC-Search for Multi-Label Prediction: An Empirical Study,Novel Machine Learning Algorithms (NMLA),"Supervised Learning
+Multi-Label Classification
+Structured Prediction",NMLA: Supervised Learning (Other)
+194,Semi-supervised Matrix Completion for Cross-Lingual Text Classification,"Machine Learning Applications (MLA)
+Novel Machine Learning Algorithms (NMLA)","cross lingual classification
+semi-supervised learning
+matrix completion","MLA: Machine Learning Applications (General/other)
+NMLA: Classification
+NMLA: Semisupervised Learning"
+195,Approximate Lifting Techniques for Belief Propagation,Reasoning under Uncertainty (RU),"Lifted Inference
+Belief Propagation
+Graphical Models","RU: Graphical Models (Other)
+RU: Probabilistic Inference
+RU: Relational Probabilistic Models"
+196,Cost-Based Query Optimization via AI Planning,"Knowledge Representation and Reasoning (KRR)
+Planning and Scheduling (PS)","relational query optimization
+delete-free planning
+cost-optimal planning
+heuristic search
+applications of planning","KRR: Knowledge Representation (General/Other)
+PS: Deterministic Planning
+PS: Planning (General/Other)"
+197,Efficient buyer groups for prediction-of-use electricity tariffs,"Computational Sustainability and AI (CSAI)
+Game Theory and Economic Paradigms (GTEP)
+Multiagent Systems (MAS)","electricity tariff
+group buying
+smart grid","CSAI: Modeling the interactions of agents with different and often conflicting interests
+CSAI: Support for public engagement and decision making by the public
+GTEP: Coordination and Collaboration
+MAS: Coordination and Collaboration
+MAS: Evaluation and Analysis (Multiagent Systems)"
+198,Distribution-Aware Sampling and Weighted Model Counting for SAT,Search and Constraint Satisfaction (SCS),"Weighted Model Counting
+Weight Generation
+SAT","SCS: SAT and CSP: Evaluation and Analysis
+SCS: SAT and CSP: Solvers and Tools
+SCS: Satisfiability (General/Other)"
+199,Online and Stochastic Learning with a Human Cognitive Bias,"Human-Computation and Crowd Sourcing (HCC)
+Novel Machine Learning Algorithms (NMLA)","Machine Learning
+Human Cognitive Bias
+Online Learning
+Stochastic Learning
+Endowment effect","HCC: Optimality in the context of human computation
+NMLA: Classification
+NMLA: Online Learning"
+200,Adaptive Singleton-based Consistencies,Search and Constraint Satisfaction (SCS),"CSP
+Singleton-based Consistencies
+Adaptive Consistencies",SCS: Constraint Satisfaction
+201,Scheduling for Transfers in Pickup and Delivery Problems with Very Large Neighborhood Search,Planning and Scheduling (PS),"scheduling
+transfers
+PDP","HSO: Heuristic Search
+HSO: Metareasoning and Metaheuristics
+PS: Scheduling"
+202,Unsupervised Alignment of Natural Language Instructions with Video Segments,"Machine Learning Applications (MLA)
+NLP and Machine Learning (NLPML)","Unsupervised Video Alignment
+Grounded Language Acquisition
+HMM
+IBM Model 1
+Language and Vision","MLA: Applications of Unsupervised Learning
+NLPML: Natural Language Processing (General/Other)
+VIS: Language and Vision"
+203,Detecting information-dense texts in multiple news domains,"AI and the Web (AIW)
+NLP and Knowledge Representation (NLPKR)
+NLP and Machine Learning (NLPML)
+NLP and Text Mining (NLPTM)","writing style
+information-dense text
+summarization","AIW: Human language technologies for web systems, including text summarization and machine translation
+NLPKR: Semantics and Summarization
+NLPML: Text Classification
+NLPTM: Natural Language Processing (General/Other)"
+204,Smarter Than You Think: Acquiring Comparative Commonsense from the Web,"AI and the Web (AIW)
+NLP and Text Mining (NLPTM)","commonsense knowledge
+information extraction
+word sense disambiguation","AIW: Knowledge acquisition from the web
+NLPTM: Information Extraction"
+205,A reasoner for the RCC-5 and RCC-8 calculi extended with constants,"Knowledge Representation and Reasoning (KRR)
+Reasoning under Uncertainty (RU)
+Search and Constraint Satisfaction (SCS)","Qualitative spatial reasoning
+Constraint Satisfaction Problems
+Landmarks","KRR: Computational Complexity of Reasoning
+KRR: Geometric, Spatial, and Temporal Reasoning
+KRR: Qualitative Reasoning
+RU: Uncertainty in AI (General/Other)
+SCS: Constraint Satisfaction"
+206,Schedule-based Robotic Search for Multiple Residents in a Retirement Home Environment,"Planning and Scheduling (PS)
+Reasoning under Uncertainty (RU)
+Robotics (ROB)","Uncertainty in AI
+Probabilistic Planning
+Temporal Planning
+Robotics","PS: Probabilistic Planning
+PS: Temporal Planning
+RU: Uncertainty in AI (General/Other)
+ROB: Robotics (General/Other)"
+207,Diagram Understanding in Geometry Problems,Applications (APP),"Diagram Understanding
+Submodular Optimization
+Language and Vision","APP: Other Applications
+VIS: Language and Vision"
+208,Latent Domains Modeling for Domain Adaptation,"Machine Learning Applications (MLA)
+Novel Machine Learning Algorithms (NMLA)
+Vision (VIS)","latent model
+local linear subspace
+domain adaptation","MLA: Applications of Unsupervised Learning
+MLA: Machine Learning Applications (General/other)
+NMLA: Clustering
+NMLA: Feature Construction/Reformulation
+NMLA: Transfer, Adaptation, Multitask Learning
+NMLA: Semisupervised Learning
+VIS: Categorization
+VIS: Object Recognition
+VIS: Statistical Methods and Learning"
+209,Improving Domain-independent Cloud-based Speech Recognition with Domain-dependent Phonetic Post-processing,"AI and the Web (AIW)
+Applications (APP)
+NLP and Knowledge Representation (NLPKR)
+Robotics (ROB)","speech recognition
+phonetics
+domain-dependent knowledge","AIW: Human language technologies for web systems, including text summarization and machine translation
+APP: Intelligent User Interfaces
+NLPKR: Natural Language Processing (General/Other)
+ROB: Human-Robot Interaction"
+210,A Strategy-Aware Technique for Learning Behaviors from Discrete Human Feedback,"Humans and AI (HAI)
+Novel Machine Learning Algorithms (NMLA)","Learning from Feedback
+Human Computer Interaction
+Reinforcement Learning
+Canine Learning","APP: Philosophical and Ethical Issues
+CM: Bayesian Learning
+HCC: Active learning from imperfect human labelers
+HAI: Human-Computer Interaction
+NMLA: Bayesian Learning
+NMLA: Reinforcement Learning
+ROB: Human-Robot Interaction"
+211,Learning Instance Concepts from Multiple-Instance Data with Bags as Distributions,,"multiple-instance learning
+supervised learning
+classification","NMLA: Evaluation and Analysis (Machine Learning)
+NMLA: Supervised Learning (Other)
+NMLA: Machine Learning (General/other)"
+212,Tractability through Exchangeability: A New Perspective on Efficient Probabilistic Inference,Reasoning under Uncertainty (RU),"efficient inference
+lifted inference
+probabilistic inference
+exchangeability
+statistical relational learning","RU: Probabilistic Inference
+RU: Relational Probabilistic Models"
+213,Collaborative Models for Referring Expression Generation in Situated Dialogue,NLP and Machine Learning (NLPML),"referring expression generation
+collaborative models
+situated dialogue","NLPML: Discourse and Dialogue
+NLPML: Natural Language Processing (General/Other)"
+214,Efficient Optimization for Autonomous Manipulation of Natural Objects,"Machine Learning Applications (MLA)
+Robotics (ROB)","Robotic grasping
+Planning
+Bayesian optimization
+Gaussian Processes
+Anytime optimization","MLA: Machine Learning Applications (General/other)
+ROB: Behavior and Control
+ROB: Robotics (General/Other)"
+215,Effective Management of Electric Vehicle Storage using Smart Charging,Computational Sustainability and AI (CSAI),"Electric Vehicles
+Smart Grid
+Optimization
+Reinforcement Learning",CSAI: Control and optimization of dynamic and spatiotemporal systems
+216,Social Planning: Achieving Goals by Altering Others' Mental States,"Cognitive Systems (CS)
+Planning and Scheduling (PS)","Cognitive Systems
+Social Planning
+Deception","CS: Conceptual inference and reasoning
+CS: Social cognition and interaction
+CS: Problem solving and decision making
+KRR: Reasoning with Beliefs
+PS: Planning (General/Other)"
+217,Feature-Cost Sensitive Learning with Submodular Trees of Classifiers,Novel Machine Learning Algorithms (NMLA),"submodular optimization
+feature-cost sensitive learning
+tree-based learning","NMLA: Classification
+NMLA: Supervised Learning (Other)"
+218,Multiagent Metareasoning Through Organizational Design,"Multiagent Systems (MAS)
+Planning and Scheduling (PS)
+Reasoning under Uncertainty (RU)","organizational design
+Dec-MDP
+multiagent metareasoning","MAS: Coordination and Collaboration
+MAS: Multiagent Planning
+MAS: Multiagent Systems (General/other)
+PS: Markov Models of Environments
+PS: Model-Based Reasoning
+PS: Probabilistic Planning
+RU: Decision/Utility Theory
+RU: Sequential Decision Making"
+219,Experiments on Visual Information Extraction with the Faces of Wikipedia,"AI and the Web (AIW)
+Vision (VIS)","Web mining
+Information extraction
+Text processing
+Face verification
+Identity resolution
+Face recognition","AIW: Knowledge acquisition from the web
+VIS: Face and Gesture Recognition
+VIS: Image and Video Retrieval
+VIS: Language and Vision"
+220,Signals in the Silence: Models of Implicit Feedback in a Recommender System for Crowdsourcing,"AI and the Web (AIW)
+Applications (APP)
+Human-Computation and Crowd Sourcing (HCC)
+Machine Learning Applications (MLA)
+Novel Machine Learning Algorithms (NMLA)","Crowdsourcing
+Recommendation Systems
+Implicit Feedback
+Matrix Factorization","AIW: Crowdsourcing techniques and methodologies
+AIW: Web-based recommendation systems
+APP: Other Applications
+HCC: Programming languages, tools and platforms to support human computation
+MLA: Machine Learning Applications (General/other)
+NMLA: Recommender Systems"
+221,A Convex Formulation for Semi-supervised Multi-Label Feature Selection,Machine Learning Applications (MLA),"Semi-supervised Learning
+Multi-Label Feature Selection
+Convex Algorithm","NMLA: Classification
+NMLA: Dimension Reduction/Feature Selection"
+222,A Spatially Sensitive Kernel to Predict Cognitive Performance from Short-Term Changes in Neural Structure,Machine Learning Applications (MLA),"Machine Learning
+Neuroimaging
+Kernel Methods
+Wide Data
+Alzheimer's Disease","APP: Biomedical / Bioinformatics
+MLA: Bio/Medicine
+MLA: Applications of Supervised Learning"
+223,GP-Localize: Persistent Mobile Robot Localization using Online Sparse Gaussian Process Observation Model,Robotics (ROB),"Robot localization
+Gaussian process
+Online learning","MLA: Applications of Supervised Learning
+NMLA: Online Learning
+ROB: Localization, Mapping, and Navigation
+ROB: State Estimation"
+224,On Detecting Nearly Structured Preference Profiles,"Game Theory and Economic Paradigms (GTEP)
+Multiagent Systems (MAS)","single-peaked preferences
+single-crossing preferences
+approximation algorithms
+forbidden configurations",GTEP: Social Choice / Voting
+225,Relational One-Class Classification: A Non-Parametric Approach,"Novel Machine Learning Algorithms (NMLA)
+Reasoning under Uncertainty (RU)","One-class classification
+Statistical Relational Learning
+Ensemble learning","NMLA: Ensemble Methods
+NMLA: Relational/Graph-Based Learning
+RU: Relational Probabilistic Models"
+226,Using Narrative Function to Extract Qualitative Information from Natural Language Texts,Cognitive Systems (CS),"Cognitive Systems
+Qualitative Representation
+Natural Language Understanding",CS: Natural language understanding and dialogue
+227,A spatio-temporal pattern mining algorithm to identify objects in a continuous field: A global oceanography perspective,Computational Sustainability and AI (CSAI),"spatio-temporal data mining
+oceanography
+pattern mining","CSAI: Modeling and prediction of dynamic and spatiotemporal phenomena and systems
+CSAI: Control and optimization of dynamic and spatiotemporal systems
+CSAI: Modeling and control of complex high-dimensional systems
+CSAI: Sensor networks for monitoring environments
+NMLA: Data Mining and Knowledge Discovery
+NMLA: Time-Series/Data Streams
+NMLA: Unsupervised Learning (Other)"
+228,Efficient codes for inverse dynamics during walking,Cognitive Modeling (CM),"machine learning
+inverse dynamics
+movement",CM: Simulating Humans
+229,Anytime Active Learning,"Human-Computation and Crowd Sourcing (HCC)
+Machine Learning Applications (MLA)","active learning
+non-uniform labeling costs
+document classification","HCC: Cost, reliability, and skill of labelers
+NLPML: Text Classification
+NMLA: Active Learning"
+230,Elimination Ordering in Lifted First-Order Probabilistic Inference,Reasoning under Uncertainty (RU),"Lifted inference
+Elimination orderings
+Probabilistic inference
+Statistical relational AI","RU: Probabilistic Inference
+RU: Relational Probabilistic Models"
+231,Predicting Postoperative Atrial Fibrillation from Independent ECG Components,"Applications (APP)
+Machine Learning Applications (MLA)","atrial fibrillation
+independent components
+medicine","APP: Biomedical / Bioinformatics
+MLA: Bio/Medicine"
+232,Online Multi-Task Learning via Sparse Dictionary Optimization,Novel Machine Learning Algorithms (NMLA),"multi-task learning
+transfer learning
+lifelong learning
+sparse coding
+k-svd","NMLA: Online Learning
+NMLA: Transfer, Adaptation, Multitask Learning"
+233,"Betting Strategies, Market Selection, and the Wisdom of Crowds",Game Theory and Economic Paradigms (GTEP),"Prediction market
+Market selection
+Kelly betting
+CRRA utilities",GTEP: Auctions and Market-Based Systems
+234,"Where and Why Users ""Check In""","AI and the Web (AIW)
+Applications (APP)","Location Based Social Network
+Point Processes
+Temporal Clustering
+Social Network Analysis","AIW: Social networking and community identification
+APP: Computational Social Science
+APP: Social Networks"
+235,Designing Fast Absorbing Markov Chains,"Heuristic Search and Optimization (HSO)
+Novel Machine Learning Algorithms (NMLA)","MCMC
+Markov Chain
+Absorption time","HSO: Evaluation and Analysis (Search and Optimization)
+HSO: Search (General/Other)
+NMLA: Machine Learning (General/other)"
+236,Symbolic Model Checking Epistemic Strategy Logic,Multiagent Systems (MAS),"Logic of Knowledge
+Strategic Reasoning
+Model Checking","MAS: Coordination and Collaboration
+MAS: Evaluation and Analysis (Multiagent Systems)"
+237,A Scheduler for Actions with Iterated Durations,Planning and Scheduling (PS),"Scheduling
+Loops
+Preference
+Optimization",PS: Scheduling
+238,Materials Discovery - Synthetic and Real World Datasets,"Computational Sustainability and AI (CSAI)
+Heuristic Search and Optimization (HSO)
+Machine Learning Applications (MLA)
+Search and Constraint Satisfaction (SCS)","Materials discovery
+Dataset
+Phase-map identification problem","CSAI: Modeling and control of complex high-dimensional systems
+MLA: Applications of Unsupervised Learning
+SCS: Constraint Optimization"
+239,Automatic Synthesis of Geometry Problems for an Intelligent Tutoring System,Applications (APP),"Problem Synthesis
+Automated Reasoning
+Computer-Aided Education
+Intelligent Tutor",APP: Computer-Aided Education
+240,Modeling Subjective Experience-based Learning under Uncertainty and Frames,"Cognitive Modeling (CM)
+Novel Machine Learning Algorithms (NMLA)
+Reasoning under Uncertainty (RU)","subjective experience-based learning
+subjective value function
+prospect theory
+subjective discriminability
+experienced utility
+decision utility
+gain frame
+loss frame","CM: Adaptive Behavior
+CM: Simulating Humans
+NMLA: Reinforcement Learning
+RU: Decision/Utility Theory"
+241,Resolving Pronouns by Leveraging English Resources,NLP and Text Mining (NLPTM),"Pronouns
+Text Mining
+Natural Language Processing",NLPML: Evaluation and Analysis
+242,Bagging by design (on the sub-optimality of bagging),Novel Machine Learning Algorithms (NMLA),"bagging
+bootstrapping
+combinatorial design
+noise stability
+correlation
+dependent sampling","NMLA: Classification
+NMLA: Ensemble Methods
+NMLA: Supervised Learning (Other)
+NMLA: Machine Learning (General/other)"
+243,A Hybrid Grammar-Based Approach for Learning and Recognizing Natural Hand Gestures,"Machine Learning Applications (MLA)
+Novel Machine Learning Algorithms (NMLA)","Iconic Hand Gestures
+Stochastic Context-Free Grammar
+Machine learning
+Classification","MLA: Applications of Supervised Learning
+NMLA: Classification
+NMLA: Graphical Model Learning
+NMLA: Supervised Learning (Other)
+NMLA: Machine Learning (General/other)
+VIS: Face and Gesture Recognition"
+244,Combining Heterogenous Social and Geographical Information for Event Recommendation,"AI and the Web (AIW)
+Novel Machine Learning Algorithms (NMLA)","heterogeneous social networks
+event recommendation
+geographical features","AIW: Web-based recommendation systems
+NMLA: Recommender Systems"
+245,"Leveraging Fee-Based, Imperfect Advisors in Human-Agent Games of Trust",Humans and AI (HAI),"advisors
+trust games
+investment game
+bribery",HAI: Human-Computer Interaction
+246,GenEth: A General Ethical Dilemma Analyzer,"Applications (APP)
+Humans and AI (HAI)
+Machine Learning Applications (MLA)","machine ethics
+concept learning
+application","APP: Philosophical and Ethical Issues
+HAI: Human-Computer Interaction
+HAI: Understanding People, Theories, Concepts and Methods
+KRR: Logic Programming
+MLA: Applications of Supervised Learning
+MLA: Machine Learning Applications (General/other)"
+247,Solving the Traveling Tournament Problem by Packing Three-Vertex Paths,"Heuristic Search and Optimization (HSO)
+Planning and Scheduling (PS)","traveling tournament problem
+sports scheduling
+scheduling optimization
+graph theory","HSO: Heuristic Search
+HSO: Optimization
+PS: Scheduling"
+248,Gradient Descent Method with Proximal Average for Nonconvex and Composite Regularization,Novel Machine Learning Algorithms (NMLA),"non-convex optimization
+composite regularization
+proximal average","NMLA: Big Data / Scalability
+NMLA: Dimension Reduction/Feature Selection"
+249,Multilabel Classification with Label Correlations and Missing Labels,Novel Machine Learning Algorithms (NMLA),"multilabel classification
+label correlation
+missing label",NMLA: Classification
+250,Double Configuration Checking in Stochastic Local Search for Satisfiability,"Heuristic Search and Optimization (HSO)
+Search and Constraint Satisfaction (SCS)","Double Configuration Checking
+Stochastic Local Search
+Satisfiability
+Phase Transition","HSO: Heuristic Search
+SCS: Constraint Satisfaction
+SCS: SAT and CSP: Solvers and Tools"
+251,Direct Semantic Analysis for Social Image Classification,"Machine Learning Applications (MLA)
+Vision (VIS)","social image classification
+latent semantic analysis
+graph-based learning
+bag-of-words","MLA: Machine Learning Applications (General/other)
+VIS: Image and Video Retrieval
+VIS: Statistical Methods and Learning"
+252,On the Structure of Synergies in Cooperative Games,Game Theory and Economic Paradigms (GTEP),"Cooperative game theory
+Shapley value
+Weighted voting games",GTEP: Game Theory
+253,Similarity-preserving binary signature for linear subspace,Novel Machine Learning Algorithms (NMLA),"linear subspace
+angular distance
+binary signature
+Hamming distance",NMLA: Data Mining and Knowledge Discovery
+254,Sample-Adaptive Multiple Kernel Learning,Novel Machine Learning Algorithms (NMLA),"Latent Support Vector Machine
+Multiple Kernel Learning
+Inference","NMLA: Classification
+NMLA: Ensemble Methods
+NMLA: Kernel Methods
+NMLA: Supervised Learning (Other)"
+255,Learning Temporal Dynamics of Behavior Propagation in Social Networks,"AI and the Web (AIW)
+Applications (APP)","Temporal Dynamics
+Social Influence
+Behavior Propagation
+Behavior Prediction
+Social Networks","AIW: Exploiting Linked Open Data
+AIW: Social networking and community identification
+AIW: Web personalization and user modeling
+AIW: Web-based recommendation systems
+APP: Computational Social Science
+APP: Social Networks"
+256,Delivering Guaranteed Display Ads under Reach and Frequency Requirements,"AI and the Web (AIW)
+Applications (APP)
+Heuristic Search and Optimization (HSO)
+Planning and Scheduling (PS)","Online Advertising
+Math programming
+Optimization
+Column Generation
+Guaranteed Targeted Display Advertising
+Reach
+Frequency
+Uniform Delivery","AIW: AI for web services: semantic descriptions, planning, matching, and coordination
+APP: Other Applications
+HSO: Optimization
+PS: Deterministic Planning
+PS: Planning (General/Other)"
+257,Video Recovery via Low-Rank Tensor Completion with Spatio-Temporal Consistency,Vision (VIS),"Video completion
+Tensor completion
+Augmented Langrange Multiplier Method",VIS: Videos
+258,Robust Multi-View Spectral Clustering via Low-Rank and Sparse Decomposition,Novel Machine Learning Algorithms (NMLA),"multi-view clustering
+spectral clustering
+low-rank matrices
+Markov chains
+Augmented Lagrangian Multiplier method",NMLA: Clustering
+259,Ranking Tweets by Labeled and Collaboratively Selected Pairs with Transitive Closure,"Heuristic Search and Optimization (HSO)
+Machine Learning Applications (MLA)
+NLP and Machine Learning (NLPML)
+Novel Machine Learning Algorithms (NMLA)","Microblog search
+semi-supervised learning
+transitive closure
+learning to rank
+SVM","APP: Social Networks
+NMLA: Semisupervised Learning"
+260,Globally and Locally Consistent Unsupervised Projection,Novel Machine Learning Algorithms (NMLA),"Unsupervised learning
+Dimension reduction
+L1-norm minimization and maximization",NMLA: Unsupervised Learning (Other)
+261,On the Incompatibility of Efficiency and Strategyproofness in Randomized Social Choice,Game Theory and Economic Paradigms (GTEP),"social decision schemes
+lotteries
+efficiency
+strategyproofness
+randomized social choice","GTEP: Game Theory
+GTEP: Social Choice / Voting"
+262,Context-aware Collaborative Topic Regression with Social Matrix Factorization for Recommender Systems,AI and the Web (AIW),"Context-awareness
+Topic modeling
+Matrix Factorization
+Social Networks",AIW: Web-based recommendation systems
+263,Deep Salience: Visual Salience Modeling via Deep Belief Propagation,"Robotics (ROB)
+Vision (VIS)","Visual Salience
+Gaze Modelling
+Deep Belief Propagation
+Random Field","CM: Cognitive Architectures
+ROB: Cognitive Robotics
+VIS: Object Detection
+VIS: Perception"
+264,A Local Non-negative Pursuit Method for Intrinsic Manifold Structure Preservation,Novel Machine Learning Algorithms (NMLA),"neighborhood selection
+non-negative representation learning
+intrinsic manifold structure preservation","NMLA: Clustering
+NMLA: Dimension Reduction/Feature Selection
+NMLA: Unsupervised Learning (Other)"
+265,Regret-based Optimization and Preference Elicitation for Stackelberg Security Games with Uncertainty,Game Theory and Economic Paradigms (GTEP),"security game
+robust optimization
+minimax regret
+preference elicitation
+payoff uncertainty",GTEP: Game Theory
+266,Adding Local Exploration to Greedy Best-First Search for Satisficing Planning,"Heuristic Search and Optimization (HSO)
+Planning and Scheduling (PS)","Heuristic Search
+Satisficing Planning
+Greedy Best First Search","HSO: Heuristic Search
+HSO: Search (General/Other)
+PS: Deterministic Planning"
+267,Pre-trained Multi-view Word Embedding using Two-side Neural Network,"AI and the Web (AIW)
+Novel Machine Learning Algorithms (NMLA)","word embedding
+neural network
+pre-train
+multiple data sources","AIW: Machine learning and the web
+NMLA: Neural Networks/Deep Learning"
+268,Trust Prediction with Propagation and Similarity Regularization,"AI and the Web (AIW)
+Applications (APP)","Trust prediction
+Social network
+Trust propagation
+Trust tendency","AIW: Representing, reasoning, and using provenance, trust, privacy, and security on the web
+APP: Social Networks"
+269,Recommendation by Mining Multiple User Behaviors with Group Sparsity,AI and the Web (AIW),"Recommender System
+Collaborative Filtering
+Matrix Factorization",AIW: Web-based recommendation systems
+270,Modal Ranking: A Uniquely Robust Voting Rule,Game Theory and Economic Paradigms (GTEP),"Computational social choice
+Crowdsourcing
+Noise models",GTEP: Social Choice / Voting
+271,Proximal Iteratively Reweighted Algorithm with Multiple Splitting for Nonconvex Sparsity Optimization,"Machine Learning Applications (MLA)
+Novel Machine Learning Algorithms (NMLA)","Nonconvex Sparsity Optimization
+General iterative solver
+multiple splitting for multi-variable problem",NMLA: Machine Learning (General/other)
+272,Extending Tournament Solutions,Game Theory and Economic Paradigms (GTEP),"Social Choice Theory
+Tournament Solutions
+Possible Winners",GTEP: Social Choice / Voting
+273,Optimal Neighborhood Preserving Visualization by Maximum Satisfiability,"Novel Machine Learning Algorithms (NMLA)
+Search and Constraint Satisfaction (SCS)","visualization
+boolean optimization
+maximum satisfiability
+nonlinear dimensionality reduction
+neighbor embedding","NMLA: Dimension Reduction/Feature Selection
+NMLA: Unsupervised Learning (Other)
+SCS: Constraint Optimization
+SCS: SAT and CSP: Modeling/Formulations"
+274,Dynamic Bayesian Probabilistic Matrix Factorization,"Novel Machine Learning Algorithms (NMLA)
+Reasoning under Uncertainty (RU)","Probabilistic Matrix Factorization
+Dynamic Hierarchical Dirichlet Process
+Bayesian Nonparametrics
+Collaborative Filtering","NMLA: Bayesian Learning
+NMLA: Preferences/Ranking Learning
+NMLA: Recommender Systems
+RU: Probabilistic Inference
+RU: Relational Probabilistic Models"
+275,Echo-State Conditional Restricted Boltzmann Machines,Novel Machine Learning Algorithms (NMLA),"Conditional Restricted Boltzmann Machine
+Echo-State Network
+Contrastive Divergence","NMLA: Neural Networks/Deep Learning
+NMLA: Time-Series/Data Streams
+NMLA: Structured Prediction"
+276,A Joint Optimization Model for Image Summarization Based on Image Content and Tags,"AI and the Web (AIW)
+Machine Learning Applications (MLA)","image summarization
+image tags
+optimization model
+similarity-inducing regularizer","AIW: AI for multimedia and multimodal web applications
+MLA: Machine Learning Applications (General/other)"
+277,"A Computational Method for (MSS,CoMSS) Partitioning","Heuristic Search and Optimization (HSO)
+Search and Constraint Satisfaction (SCS)","SAT
+CoMSS
+MSS
+Maximal Satisﬁable Subset","HSO: Search (General/Other)
+SCS: Constraint Satisfaction
+SCS: SAT and CSP: Solvers and Tools"
+278,Feature Selection at the Discrete Limit,"Machine Learning Applications (MLA)
+Novel Machine Learning Algorithms (NMLA)","feature selection
+sparse
+L2p norm",NMLA: Dimension Reduction/Feature Selection
+279,Computing General First-order Parallel and Prioritized Circumscription,Knowledge Representation and Reasoning (KRR),"first-order parallel and prioritized circumscription
+first-order stable model semantics
+translation
+optimization","KRR: Common-Sense Reasoning
+KRR: Nonmonotonic Reasoning"
+280,Learning Word Representation Considering Proximity and Ambiguity,"AI and the Web (AIW)
+Machine Learning Applications (MLA)
+NLP and Knowledge Representation (NLPKR)
+NLP and Machine Learning (NLPML)","word proximity
+word ambiguity
+neural networks","AIW: Knowledge acquisition from the web
+AIW: Machine learning and the web
+MLA: Applications of Unsupervised Learning
+NLPKR: Natural Language Processing (General/Other)
+NLPML: Natural Language Processing (General/Other)
+NMLA: Neural Networks/Deep Learning"
+281,Planning as Model Checking in Hybrid Domains,Planning and Scheduling (PS),"Planning in Mixed Discrete-Continuous Domains
+PDDL+
+Model Checking
+Hybrid Automata
+Planning as Model Checking","PS: Mixed Discrete/Continuous Planning
+PS: Temporal Planning"
+282,Novel Density-based Clustering Algorithms for Uncertain Data,Novel Machine Learning Algorithms (NMLA),"Uncertain data
+Clustering
+Density-based algorithm","NMLA: Clustering
+RU: Uncertainty in AI (General/Other)"
+283,Parallel Restarted Search,Heuristic Search and Optimization (HSO),"Restarts
+Parallel Search
+Deterministic Parallelization",HSO: Search (General/Other)
+284,MaxSAT Portfolio,Search and Constraint Satisfaction (SCS),"MaxSAT
+Algorithm Portfolios
+Algorithm Tuning",SCS: Satisfiability (General/Other)
+285,Large-Scale Supervised Multimodal Hashing with Semantic Correlation Maximization,"Novel Machine Learning Algorithms (NMLA)
+Vision (VIS)","Multimodal Hashing
+Cross-view Similarity Search
+Image Retrieval
+Scalability","NMLA: Big Data / Scalability
+NMLA: Supervised Learning (Other)
+VIS: Image and Video Retrieval"
+286,Role-aware Conformity Modeling and Analysis in Social Networks,"Applications (APP)
+Novel Machine Learning Algorithms (NMLA)","social conformity
+role base conformity
+probabilistic model","APP: Computational Social Science
+NMLA: Data Mining and Knowledge Discovery"
+287,Data Quality in Ontology-based Data Access: The Case of Consistency,Knowledge Representation and Reasoning (KRR),"Ontology-based data access
+Description Logics
+Data Quality
+Data Management","APP: Other Applications
+KRR: Ontologies
+KRR: Description Logics
+KRR: Knowledge Representation (General/Other)"
+288,Sparse Compositional Metric Learning,Novel Machine Learning Algorithms (NMLA),"Metric Learning
+Sparse Methods
+Local Metric Learning
+Multi-task Learning","NMLA: Classification
+NMLA: Dimension Reduction/Feature Selection
+NMLA: Transfer, Adaptation, Multitask Learning"
+289,Improving Context and Category Matching for Entity Search,AI and the Web (AIW),"entity search
+language model
+category matching
+context matching
+result re-ranking","AIW: Enhancing web search and information retrieval
+AIW: Question answering on the web"
+290,ARIA: Asymmetry Resistant Instance Alignment,AI and the Web (AIW),"instance alignment
+entity matching
+resolution
+deduplication
+linkage
+linked data","AIW: AI for web services: semantic descriptions, planning, matching, and coordination"
+291,Diagnosing Analogue Linear Systems Using Dynamic Topological Reconfiguration,Knowledge Representation and Reasoning (KRR),"model-based diagnosis
+analogue systems
+modeling and analysis",KRR: Diagnosis and Abductive Reasoning
+292,Simpler Bounded Suboptimal Search,Heuristic Search and Optimization (HSO),"bounded suboptimal search
+distance estimates
+additional heuristics
+iterative deepening
+implementation","HSO: Heuristic Search
+HSO: Evaluation and Analysis (Search and Optimization)"
+293,PAC Rank Elicitation through Adaptive Sampling of Stochastic Pairwise Preferences,Novel Machine Learning Algorithms (NMLA),"Preference learning
+Online learning
+Ranking models
+Rank elicitation
+Sample complexity","NMLA: Online Learning
+NMLA: Preferences/Ranking Learning"
+294,Elementary Loops Revisited,Knowledge Representation and Reasoning (KRR),"elementary loops
+proper loops
+positive body-head dependency graph",KRR: Logic Programming
+295,On Computing Optimal Strategies in Open List Proportional Representation: the Two Parties Case,"Game Theory and Economic Paradigms (GTEP)
+Multiagent Systems (MAS)","pure Nash equilibrium
+open list proportional representation
+computational social choice","GTEP: Game Theory
+GTEP: Social Choice / Voting
+GTEP: Equilibrium
+MAS: Evaluation and Analysis (Multiagent Systems)"
+296,Joint Morphological Generation and Syntactic Linearization,NLP and Knowledge Representation (NLPKR),"joint method
+natural language generation
+meaning text theory
+syntactic linearization
+morphological generation",NLPKR: Natural Language Processing (General/Other)
+297,Machine Translation with Real-time Web Search,AI and the Web (AIW),"machine translation
+real-time web search
+web-based machine translation
+phrase-level translation
+sentence-level translation
+search snippets","AIW: Human language technologies for web systems, including text summarization and machine translation"
+298,Latent Low-Rank Bi-Directional Transfer Subspace Learning,Novel Machine Learning Algorithms (NMLA),"transfer learning
+latent low-rank
+subspace learning","NMLA: Classification
+NMLA: Dimension Reduction/Feature Selection
+NMLA: Transfer, Adaptation, Multitask Learning"
+299,Adaptive Knowledge Transfer for Multiple Instance Learning in Image Classification,Novel Machine Learning Algorithms (NMLA),"Multiple Instance Learning
+Image Classification
+Transfer Learning","NMLA: Classification
+NMLA: Transfer, Adaptation, Multitask Learning
+VIS: Categorization"
+300,Finding the k-best Equivalence Classes of Bayesian Network Structures for Model Averaging,"Novel Machine Learning Algorithms (NMLA)
+Reasoning under Uncertainty (RU)","Bayesian network
+Equivalence class
+Model averaging
+Dynamic programming","NMLA: Bayesian Learning
+NMLA: Graphical Model Learning
+RU: Bayesian Networks
+RU: Graphical Models (Other)
+RU: Probabilistic Inference
+RU: Uncertainty Representations"
+301,On the Challenges of Physical Implementations of RBMs,Machine Learning Applications (MLA),"Restricted Boltzmann Machine
+RBM
+Hardware
+Neuromorphic
+Empirical
+Deep Learning",MLA: Applications of Unsupervised Learning
+302,SLE: Signed Laplacian Embedding for Supervised Dimension Reduction,Novel Machine Learning Algorithms (NMLA),"Dimension reduction
+Manifold learning
+Signed graph Laplacian",NMLA: Dimension Reduction/Feature Selection
+303,Envy-Free Division of Sellable Goods,Game Theory and Economic Paradigms (GTEP),"Computational social choice
+Fair division
+Envy-free allocation","GTEP: Auctions and Market-Based Systems
+GTEP: Social Choice / Voting"
+304,Potential-Aware Imperfect-Recall Abstraction with Earth Mover's Distance in Imperfect-Information Games,Game Theory and Economic Paradigms (GTEP),"Game Theory
+Multiagent Systems
+Game Solving
+Game Abstraction
+Imperfect Information
+Poker","GTEP: Game Theory
+GTEP: Imperfect Information"
+305,Partial Multi-View Clustering,"Machine Learning Applications (MLA)
+Novel Machine Learning Algorithms (NMLA)","machine learning
+unsupervised learning
+multi-view clustering
+partial view","MLA: Applications of Unsupervised Learning
+MLA: Machine Learning Applications (General/other)
+NMLA: Clustering
+NMLA: Unsupervised Learning (Other)
+NMLA: Machine Learning (General/other)"
+306,User Intent Identification from Online Discussions using a Joint Aspect-Action Topic Model,"AI and the Web (AIW)
+NLP and Machine Learning (NLPML)
+NLP and Text Mining (NLPTM)
+Novel Machine Learning Algorithms (NMLA)","Web
+Online Discussions
+Joint Modeling
+Topic Modeling
+Information Extraction
+AI","AIW: Enhancing web search and information retrieval
+AIW: Knowledge acquisition from the web
+AIW: Machine learning and the web
+NLPTM: Information Extraction
+NMLA: Classification
+NMLA: Clustering
+NMLA: Data Mining and Knowledge Discovery
+NMLA: Unsupervised Learning (Other)"
+307,Voting with Rank Dependent Scoring Rules,Game Theory and Economic Paradigms (GTEP),"Computational Social Choice
+Voting
+Order Weighted Averages
+Multi-agent Systems","GTEP: Auctions and Market-Based Systems
+GTEP: Social Choice / Voting"
+308,Implementing GOLOG in Answer Set Programming,"Knowledge Representation and Reasoning (KRR)
+Planning and Scheduling (PS)","GOLOG
+Answer Set Programming
+Planning
+Search Control","KRR: Action, Change, and Causality
+KRR: Logic Programming
+PS: Planning (General/Other)"
+309,Agent Behavior Prediction and Its Generalization Analysis,"Machine Learning Applications (MLA)
+Novel Machine Learning Algorithms (NMLA)","generalization analysis
+agent behavior model prediction
+Markov Chain in Random Environments
+empirical risk minimization algorithm","MLA: Environmental
+MLA: Humanities
+MLA: Applications of Supervised Learning
+NMLA: Learning Theory"
+310,Sparse Learning for Stochastic Composite Optimization,Heuristic Search and Optimization (HSO),"Stochastic Optimization
+Online Learning
+Composite Gradient Mapping
+Stochastic Gradient Descent",HSO: Optimization
+311,Cross-lingual Knowledge Validation Based Taxonomy Derivation from Heterogeneous Online Wikis,"AI and the Web (AIW)
+Knowledge Representation and Reasoning (KRR)
+NLP and Knowledge Representation (NLPKR)","Taxonomy Derivation
+Knowledge Validation
+Cross Lingual
+Online Wikis","AIW: Knowledge acquisition from the web
+AIW: Languages, tools, and methodologies for representing, managing, and visualizing semantic web data
+AIW: Ontologies and the web: creation, extraction, evolution, mapping, merging, and alignment; tags and folksonomies
+KRR: Knowledge Acquisition
+KRR: Ontologies
+NLPKR: Ontology Induction"
+312,A Relevance-Based Compilation Method for Conformant Probabilistic Planning,Planning and Scheduling (PS),"Planning under uncertainty.
+Conformant probabilistic planning.
+Relevance based method.
+compilation based approach.","PS: Probabilistic Planning
+PS: Planning (General/Other)"
+313,Incentivizing High-quality Content from Heterogeneous Users: On the Existence of Nash Equilibrium,"Game Theory and Economic Paradigms (GTEP)
+Multiagent Systems (MAS)","User generated content
+Heterogeneous users
+Equilibrium analysis","GTEP: Game Theory
+GTEP: Equilibrium
+GTEP: Imperfect Information
+MAS: Mechanism Design"
+314,DJAO: A Communication-Constrained DCOP algorithm that combines features of ADOPT and Action-GDL,"Heuristic Search and Optimization (HSO)
+Search and Constraint Satisfaction (SCS)","Distributed Problem Solving
+DCOP
+AND/OR search","HSO: Heuristic Search
+HSO: Optimization
+HSO: Distributed Search
+MAS: Coordination and Collaboration
+MAS: Distributed Problem Solving
+SCS: Constraint Optimization
+SCS: Distributed CSP/Optimization"
+315,Oversubscription Planning: Complexity and Compilability,Planning and Scheduling (PS),"oversubscription planning
+computational complexity
+compilability","PS: Deterministic Planning
+PS: Planning (General/Other)"
+316,Monte Carlo Filtering using Kernel Embedding of Distributions,Novel Machine Learning Algorithms (NMLA),"kernel method
+kernel embedding of distributions
+Monte Carlo filtering
+state-space model",NMLA: Kernel Methods
+317,New Models for Competitive Contagion,Game Theory and Economic Paradigms (GTEP),"Competitive Contagion
+Networks
+Connectivity
+Endogenous budgets","GTEP: Game Theory
+GTEP: Equilibrium"
+318,Hybrid Heterogeneous Transfer Learning through Deep Learning,Novel Machine Learning Algorithms (NMLA),"transfer learning
+domain adaptation
+deep learning","NMLA: Transfer, Adaptation, Multitask Learning"
+319,Decentralized Multi-Agent Reinforcement Learning in Average-Reward Dynamic DCOPs,"Multiagent Systems (MAS)
+Search and Constraint Satisfaction (SCS)","Distributed Constraint Optimization Problems
+DCOPs
+Reinforcement Learning","MAS: Coordination and Collaboration
+MAS: Distributed Problem Solving
+MAS: Multiagent Learning
+SCS: Distributed CSP/Optimization"
+320,Approximate Equilibrium and Incentivizing Social Coordination,Game Theory and Economic Paradigms (GTEP),"Approximate Nash Equilibrium
+Coordination Games
+Price of Stability
+Price of Anarchy
+Network Games","GTEP: Game Theory
+GTEP: Coordination and Collaboration
+GTEP: Equilibrium"
+321,Qualitative Reasoning with Modelica Models,"Applications (APP)
+Knowledge Representation and Reasoning (KRR)","qualitative reasoning
+design
+Modelica
+model-based reasoning","APP: Other Applications
+KRR: Knowledge Representation Languages
+KRR: Qualitative Reasoning"
+322,Evaluating Trauma Patients: Addressing Missing Covariates Using Joint Optimization,Machine Learning Applications (MLA),"missing values
+classification
+trauma","MLA: Bio/Medicine
+MLA: Applications of Supervised Learning"
+323,Tightening Bounds for Bayesian Network Structure Learning,Reasoning under Uncertainty (RU),"Bayesian network
+structure learning
+lower and upper bounds","NMLA: Graphical Model Learning
+RU: Bayesian Networks"
+324,Pathway Specification and Comparative Queries: A High Level Language with Petri Net Semantics,Knowledge Representation and Reasoning (KRR),"Biological pathways
+Comparative queries
+Question answering","APP: Biomedical / Bioinformatics
+KRR: Knowledge Representation Languages"
+325,Solving the Inferential Frame Problem in the General Game Description Language,"Game Playing and Interactive Entertainment (GPIE)
+Knowledge Representation and Reasoning (KRR)","General game playing
+Inferential frame problem
+Game description language","GPIE: General Game Playing
+KRR: Action, Change, and Causality"
+326,Testable Implications of Linear Structural Equation Models,"Knowledge Representation and Reasoning (KRR)
+Reasoning under Uncertainty (RU)","structural equation models
+causality
+causal models
+linear
+testable implications
+constraints
+verma constraints
+overidentifying constraints
+overidentifying restrictions
+graphical models","KRR: Action, Change, and Causality
+RU: Graphical Models (Other)"
+327,Manifold Spanning Graphs,Novel Machine Learning Algorithms (NMLA),"graph construction
+manifold learning
+topology","NMLA: Dimension Reduction/Feature Selection
+NMLA: Unsupervised Learning (Other)"
+328,Learning Relative Similarity by Stochastic Dual Coordinate Ascent,"Machine Learning Applications (MLA)
+Novel Machine Learning Algorithms (NMLA)","distance metric learning
+similarity learning
+online learning
+retrieval","MLA: Applications of Supervised Learning
+MLA: Machine Learning Applications (General/other)
+NMLA: Online Learning
+NMLA: Supervised Learning (Other)
+VIS: Image and Video Retrieval
+VIS: Statistical Methods and Learning"
+329,locality preserving projection via multi-objective learning for domain adaptation,"Knowledge Representation and Reasoning (KRR)
+Machine Learning Applications (MLA)
+Novel Machine Learning Algorithms (NMLA)","locality preserving projection
+multi-objective learning
+domain adaptation","KRR: Knowledge Representation (General/Other)
+NMLA: Transfer, Adaptation, Multitask Learning"
+330,Internally Stable Kidney Exchange,Multiagent Systems (MAS),"Kidney exchange
+Stable matching
+Maximum weighted matching","GTEP: Auctions and Market-Based Systems
+MAS: Mechanism Design"
+331,Intra-view and Inter-view Supervised Correlation Analysis for Multi-view Feature Learning,Novel Machine Learning Algorithms (NMLA),"Canonical correlation analysis (CCA)
+Multi-view supervised feature learning
+Inter-view and intra-view supervised correlation analysis (I2SCA)
+Analytical solution
+Kernelized extension","NMLA: Dimension Reduction/Feature Selection
+NMLA: Supervised Learning (Other)
+VIS: Statistical Methods and Learning"
+332,Finding Median Point-Set Using Earth Mover's Distance,"Heuristic Search and Optimization (HSO)
+Machine Learning Applications (MLA)","Prototype learning
+Earth mover's distance
+Optimization","HSO: Heuristic Search
+HSO: Optimization
+HSO: Evaluation and Analysis (Search and Optimization)
+MLA: Applications of Unsupervised Learning
+MLA: Machine Learning Applications (General/other)
+NMLA: Evaluation and Analysis (Machine Learning)
+NMLA: Unsupervised Learning (Other)
+NMLA: Machine Learning (General/other)"
+333,Preprocessing for Propositional Model Counting,Search and Constraint Satisfaction (SCS),"model counting
+preprocessing
+propositional
+compilation
+direct model counting","SCS: SAT and CSP: Solvers and Tools
+SCS: Constraint Satisfaction (General/other)"
+334,Propagating Regular Counting Constraints,Search and Constraint Satisfaction (SCS),"constraints over a sequence
+finite automata
+counting
+propagators
+domain consistency","SCS: Constraint Satisfaction
+SCS: Global Constraints"
+335,SOML: Sparse Online Metric Learning with Application to Image Retrieval,Machine Learning Applications (MLA),"Sparse Online Learning
+Distance Metric Learning
+Image Retrieval",MLA: Applications of Supervised Learning
+336,Strategyproof exchange with multiple private endowments,Game Theory and Economic Paradigms (GTEP),"Mechanism design
+Exchange
+Manipulation
+Strategyproofness","GTEP: Auctions and Market-Based Systems
+GTEP: Game Theory
+MAS: E-Commerce
+MAS: Mechanism Design"
+337,Mechanism design for mobile geo-location advertising,"Game Theory and Economic Paradigms (GTEP)
+Multiagent Systems (MAS)","Mechanism Design
+Auctions
+Computational Advertising
+Mobile Advertising
+Game Theory (cooperative and non–cooperative)","GTEP: Auctions and Market-Based Systems
+GTEP: Game Theory
+MAS: Mechanism Design"
+338,A Propagator Design Framework for Constraints over Sequences,Search and Constraint Satisfaction (SCS),"Constraint Programming
+Global Constraints
+Stepwise Refinement
+Tuple Variables","SCS: Constraint Satisfaction
+SCS: Global Constraints"
+339,Regression Model and Privacy Preserved Learning by Matrix Completion,"Applications (APP)
+Machine Learning Applications (MLA)
+Novel Machine Learning Algorithms (NMLA)","Regression analysis
+Privacy
+Matrix completion","APP: Biomedical / Bioinformatics
+APP: Computational Social Science
+APP: Security and Privacy
+MLA: Bio/Medicine
+MLA: Applications of Supervised Learning
+MLA: Machine Learning Applications (General/other)
+MAS: Mechanism Design
+NMLA: Data Mining and Knowledge Discovery
+NMLA: Feature Construction/Reformulation
+NMLA: Machine Learning (General/other)
+RU: Uncertainty in AI (General/Other)"
+340,A Constructive Argumentation Framework,,"Logic-based Argumentation
+Constructive Arguments
+Intuitionistic Logic",KRR: Argumentation
+341,Point-based POMDP solving with factored value function approximation,"Planning and Scheduling (PS)
+Reasoning under Uncertainty (RU)","POMDP
+Value function approximation
+Point-based methods","PS: Probabilistic Planning
+PS: Planning (General/Other)
+RU: Sequential Decision Making
+RU: Uncertainty in AI (General/Other)"
+342,A Multiarmed Bandit Incentive Mechanism for Crowdsourcing Demand Response in Smart Grids,"Computational Sustainability and AI (CSAI)
+Game Theory and Economic Paradigms (GTEP)
+Human-Computation and Crowd Sourcing (HCC)","CSAI: Modeling the interactions of agents with different and often conflicting interests
+GTEP: Auctions and Market-Based Systems
+HCC: Game-theoretic mechanism design of incentives for motivation and honest reporting","CSAI: Modeling the interactions of agents with different and often conflicting interests
+GTEP: Auctions and Market-Based Systems
+HCC: Game-theoretic mechanism design of incentives for motivation and honest reporting"
+343,Binary Aggregation by Selection of the Most Representative Voter,"Game Theory and Economic Paradigms (GTEP)
+Knowledge Representation and Reasoning (KRR)
+Multiagent Systems (MAS)","Computational Social Choice
+Approximation
+Judgment Aggregation","GTEP: Social Choice / Voting
+KRR: Preferences
+MAS: Multiagent Systems (General/other)"
+344,Pairwise-Covariance Linear Discriminant Analysis,"Applications (APP)
+Machine Learning Applications (MLA)","linear discriminant analysis
+gradient
+pairwise
+covariance",
+345,State Aggregation in Monte Carlo Tree Search,"Planning and Scheduling (PS)
+Reasoning under Uncertainty (RU)","markov decision process
+monte carlo tree search
+state abstraction","PS: Probabilistic Planning
+RU: Sequential Decision Making"
+346,Saturated Path-Constrained MDP: Planning under Uncertainty and Deterministic Model-Checking Constraints,"Planning and Scheduling (PS)
+Reasoning under Uncertainty (RU)","Safe and Optimal Controller Synthesis
+Uncertainty and Stochasticity
+Planning under Uncertainty
+Model-Checking PCTL Constraints
+Path-Constrained Markov Decision Processes","PS: Markov Models of Environments
+PS: Probabilistic Planning
+PS: Planning (General/Other)
+RU: Sequential Decision Making
+SCS: Constraint Satisfaction (General/other)"
+347,Bounding the Support Size in Extensive Form Games with Imperfect Information,Game Theory and Economic Paradigms (GTEP),"Game theory
+Nash equilibrium
+Support
+Extensive form games
+Bayesian extensive games
+Poker
+Equilibrium preserving transformation","GTEP: Game Theory
+GTEP: Equilibrium
+GTEP: Imperfect Information"
+348,Exploiting Support Sets for Answer Set Programs with External Evaluations,Knowledge Representation and Reasoning (KRR),"Answer Set Programming
+External Sources
+Description Logic Programs","KRR: Ontologies
+KRR: Description Logics
+KRR: Knowledge Representation Languages
+KRR: Logic Programming
+KRR: Nonmonotonic Reasoning
+KRR: Knowledge Representation (General/Other)"
+349,Towards Topological-transformation Robust Shape Comparison:  A Sparse Representation Based Manifold Embedding Approach,Vision (VIS),"Shape Comparison
+Manifold Embedding
+Sparse Representation",VIS: Object Recognition
+350,Uncorrelated Multi-view Fisher Discrimination Dictionary Learning For Recognition,Vision (VIS),"Fisher discrimination Dictionary learning (FDDL)
+Multi-view FDDL (MFDDL)
+Uncorrelated MFDDL (UMFDDL)
+Uncorrelated constraint","NMLA: Supervised Learning (Other)
+VIS: Categorization
+VIS: Object Recognition"
+351,Semantic Data Representation for Improving Tensor Factorization,"AI and the Web (AIW)
+Novel Machine Learning Algorithms (NMLA)","Collaborative Filtering
+Recommender System
+Tensor Factorization
+Rating prediction
+Bayesian probabilistic tensor factorization
+Linked Open Data
+Taxonomy
+Semantics on the web","AIW: Exploiting Linked Open Data
+AIW: Ontologies and the web: creation, extraction, evolution, mapping, merging, and alignment; tags and folksonomies
+AIW: Web-based recommendation systems
+NMLA: Data Mining and Knowledge Discovery
+NMLA: Recommender Systems"
+352,Local-To-Global Consistency Implies Tractability of Abduction,Knowledge Representation and Reasoning (KRR),"Diagnosis and Abductive Reasoning
+Spatial and Temporal Reasoning
+Local Consistency
+Computational Complexity","KRR: Computational Complexity of Reasoning
+KRR: Diagnosis and Abductive Reasoning
+KRR: Geometric, Spatial, and Temporal Reasoning
+KRR: Nonmonotonic Reasoning
+KRR: Qualitative Reasoning"
+353,Generalized Higher-Order Tensor Decomposition via Parallel ADMM,Novel Machine Learning Algorithms (NMLA),"Tensor decomposition
+Higher-order orthogonal iteration
+Parallel Optimization","NMLA: Dimension Reduction/Feature Selection
+NMLA: Feature Construction/Reformulation
+NMLA: Unsupervised Learning (Other)"
+354,Abduction Framework for Repairing Incomplete  EL Ontologies:  Complexity Results and Algorithms,"AI and the Web (AIW)
+Knowledge Representation and Reasoning (KRR)","ontology debugging
+ontology engineering
+description logics","AIW: Ontologies and the web: creation, extraction, evolution, mapping, merging, and alignment; tags and folksonomies
+KRR: Ontologies
+KRR: Description Logics
+KRR: Diagnosis and Abductive Reasoning"
+355,Mixing-time Regularized Policy Gradient,Novel Machine Learning Algorithms (NMLA),"Reinforcement learning
+Policy gradient
+Markov chain mixing time","CS: Problem solving and decision making
+NMLA: Reinforcement Learning
+RU: Sequential Decision Making"
+356,Exploring the Boundaries of Decidable Verification of Non-Terminating Golog Programs,Knowledge Representation and Reasoning (KRR),"Situation Calculus
+Golog
+Verification","KRR: Action, Change, and Causality
+KRR: Geometric, Spatial, and Temporal Reasoning"
+357,Using Timed Game Automata to Synthesize Execution Strategies for Simple Temporal Networks with Uncertainty,"Planning and Scheduling (PS)
+Reasoning under Uncertainty (RU)","Dynamic Controllability
+Strategy Synthesis
+Simple Temporal Networks with Uncertainty
+Timed Game Automata","PS: Plan Execution and Monitoring
+PS: Scheduling
+RU: Uncertainty in AI (General/Other)"
+358,Adaptation Guided Case Base Maintenance,Novel Machine Learning Algorithms (NMLA),"Adaptation-Guided Case-Based Maintenance
+Case-Based Maintenance
+Case-Based Reasoning",NMLA: Case-Based Reasoning
+359,The Fisher Market Game: Equilibrium and Welfare,Game Theory and Economic Paradigms (GTEP),"Fisher markets
+Fisher market game
+Equilibrium analysis
+Price of anarchy","GTEP: Auctions and Market-Based Systems
+GTEP: Game Theory"
+360,Huffman Coding for Storing Non-uniformly Distributed Messages in Networks of Neural Cliques,"Applications (APP)
+Machine Learning Applications (MLA)
+Novel Machine Learning Algorithms (NMLA)","neural clique
+sparsity
+associative memory
+non-uniform distribution
+compression code","APP: Security and Privacy
+APP: Other Applications
+MLA: Machine Learning Applications (General/other)
+NMLA: Neural Networks/Deep Learning"
+361,An Agent-Based Model Studying the Acquisition of a Language System of Logical Constructions,Cognitive Modeling (CM),"Cognitive Modeling
+Symbolic AI
+Simulating Humans
+Adaptive Behavior","CM: Adaptive Behavior
+CM: Simulating Humans
+CM: Symbolic AI"
+362,Tree-Based On-line Reinforcement Learning,Reasoning under Uncertainty (RU),"Reinforcement Learning
+Markov Decision Processes
+Fitted Q-Iteration",RU: Sequential Decision Making
+363,Doubly Regularized Portfolio with Risk Minimization,"Applications (APP)
+Machine Learning Applications (MLA)","Portfolion Management
+Risk Minimization
+Doubly Regularized Portfolio","APP: Other Applications
+MLA: Machine Learning Applications (General/other)"
+364,"Non-convex feature learning via $\ell_{p,\infty}$ operator","Machine Learning Applications (MLA)
+Novel Machine Learning Algorithms (NMLA)","feature
+sparse
+learning",
+365,Robust Non-negative Dictionary Learning,"Machine Learning Applications (MLA)
+Novel Machine Learning Algorithms (NMLA)","dictionary learning
+non-negative
+clustering
+multiplicative",
+366,On the Axiomatic Characterization of Runoff Voting Rules,Game Theory and Economic Paradigms (GTEP),"computational social choice
+runoff scoring rules
+independence of clones",GTEP: Social Choice / Voting
+367,Supervised Scoring with Monotone Multidimensional Splines,Computational Sustainability and AI (CSAI),"Sustainability
+Green Buildings
+Interpolation
+Scientific Computing","CSAI: Modeling and control of complex high-dimensional systems
+CSAI: Support for public engagement and decision making by the public
+HCC: Optimality in the context of human computation"
+368,CoreCluster: A Degeneracy Based Graph Clustering Framework,"AI and the Web (AIW)
+Applications (APP)","Community detection
+Graph clustering
+Graph degeneracy
+Graph mining","AIW: Social networking and community identification
+APP: Social Networks"
+369,A Generalized Genetic Algorithm-Based Solver for Very Large Jigsaw Puzzles of Complex Types,"Novel Machine Learning Algorithms (NMLA)
+Vision (VIS)","genetic algorithms
+jigsaw puzzle
+computer vision
+recombination operators","NMLA: Evolutionary Computation
+VIS: Perception"
+370,Solving Zero-Sum Security Games in Discretized Spatio-Temporal Domains,"Game Theory and Economic Paradigms (GTEP)
+Multiagent Systems (MAS)","Security Games
+Zero-Sum Games
+Minimax Equilibrium
+Oracle
+Equilibria Computation","GTEP: Game Theory
+GTEP: Equilibrium
+MAS: Multiagent Systems (General/other)"
+371,Q-intersection Algorithms for Constraint-Based Robust Parameter Estimation,Search and Constraint Satisfaction (SCS),"intersection graph
+computational complexity
+parameter estimation
+soft numerical constraints
+q-intersection",SCS: Constraint Satisfaction
+372,Fused Feature Representation Discovery for High-dimensional and Sparse Data,"NLP and Machine Learning (NLPML)
+Novel Machine Learning Algorithms (NMLA)","feature representation discovery
+feature selection
+dimensionality reduction
+semi-supervised learning
+feature grouping","NLPML: Natural Language Processing (General/Other)
+NMLA: Feature Construction/Reformulation
+NMLA: Semisupervised Learning"
+373,Joule Counting Correction for Electric Vehicles using Artificial Neural Nets,"Applications (APP)
+Machine Learning Applications (MLA)
+Novel Machine Learning Algorithms (NMLA)
+Reasoning under Uncertainty (RU)
+Robotics (ROB)","Electric Vehicles
+Battery Estimation
+State of Charge
+Artificial Neural Nets
+Lithium Iron Phosphate (LiFePo)","APP: Other Applications
+MLA: Applications of Unsupervised Learning
+MLA: Machine Learning Applications (General/other)
+NMLA: Active Learning
+NMLA: Time-Series/Data Streams
+NMLA: Unsupervised Learning (Other)
+NMLA: Machine Learning (General/other)
+RU: Uncertainty Representations
+ROB: Human-Robot Interaction
+ROB: State Estimation"
+374,Managing Change in Graph-structured Data Using Description Logics,Knowledge Representation and Reasoning (KRR),"Graph structured data
+Description Logics
+Static analysis of transactions
+Planning","KRR: Computational Complexity of Reasoning
+KRR: Description Logics"
+375,BCI Based Control Without Explicit Calibration,"Cognitive Modeling (CM)
+Humans and AI (HAI)","Brain-Computer Interfaces
+Calibration
+Human-Robot Interaction","CM: Adaptive Behavior
+HAI: Brain-Sensing and Analysis
+HAI: Communication Protocols
+HAI: Human-Computer Interaction
+HAI: User Experience and Usability"
+376,Towards Scalable Exploration of Diagnoses in an Ontology Stream,AI and the Web (AIW),"Semantic Web
+Ontology Stream
+Semantic Reasoning
+Knowledge Evolution","AIW: Languages, tools, and methodologies for representing, managing, and visualizing semantic web data
+AIW: Ontologies and the web: creation, extraction, evolution, mapping, merging, and alignment; tags and folksonomies"
+377,Flexible and Scalable Partially Observable Planning with Linear Translations,"Knowledge Representation and Reasoning (KRR)
+Planning and Scheduling (PS)
+Reasoning under Uncertainty (RU)","Planning with sensing and partial information
+Planning with beliefs
+On-line planning
+Replanning","KRR: Reasoning with Beliefs
+PS: Deterministic Planning
+PS: Replanning and Plan Repair
+PS: Planning (General/Other)
+RU: Sequential Decision Making"
+378,Online Portfolio Selection with Group Sparsity,"Applications (APP)
+Game Theory and Economic Paradigms (GTEP)
+Machine Learning Applications (MLA)
+Novel Machine Learning Algorithms (NMLA)","online learning
+portfolio selection
+group lasso
+non-smooth convex optimization
+alternating direction method of multipliers","APP: Other Applications
+GTEP: Adversarial Learning
+MLA: Machine Learning Applications (General/other)
+NMLA: Big Data / Scalability
+NMLA: Data Mining and Knowledge Discovery
+NMLA: Online Learning
+NMLA: Time-Series/Data Streams
+NMLA: Machine Learning (General/other)"
+379,Prediction of Helpful Reviews using Emotions Extraction,"Machine Learning Applications (MLA)
+NLP and Machine Learning (NLPML)","helpfulness prediction
+product review analysis
+emotions extraction","MLA: Applications of Supervised Learning
+NLPML: Evaluation and Analysis"
+380,An Adversarial Interpretation of Information-Theoretic Bounded Rationality,"Game Theory and Economic Paradigms (GTEP)
+Planning and Scheduling (PS)
+Reasoning under Uncertainty (RU)","bounded rationality
+free energy
+game theory
+legendre transform","PS: Probabilistic Planning
+PS: Planning (General/Other)
+RU: Decision/Utility Theory"
+381,Learning to Recognize Novel Objects in One Shot through Human-Robot Interactions in Natural Language Dialogues,"Cognitive Systems (CS)
+Robotics (ROB)
+Vision (VIS)","one-shot learning
+object recognition
+natural language dialogues","CS: Natural language understanding and dialogue
+ROB: Human-Robot Interaction
+VIS: Language and Vision
+VIS: Object Recognition"
+382,Coactive Learning for Locally Optimal Problem Solving,"Humans and AI (HAI)
+Knowledge Representation and Reasoning (KRR)","Coactive Learning
+Local Optimization
+Preference Learning","HCC: Active learning from imperfect human labelers
+HAI: Interaction Techniques and Devices
+KRR: Preferences
+NMLA: Preferences/Ranking Learning"
+383,Large Scale Analogical Reasoning,"Cognitive Systems (CS)
+Knowledge Representation and Reasoning (KRR)","analogical reasoning
+case-based reasoning
+question answering
+knowledge base systems","CS: Conceptual inference and reasoning
+CS: Structural learning and knowledge capture
+KRR: Qualitative Reasoning"
+384,Learning Models of Unknown Events,Cognitive Systems (CS),"learning environment models
+explanation generation
+execution monitoring
+goal-driven autonomy","CM: Symbolic AI
+CS: Problem solving and decision making
+CS: Introspection and meta-cognition
+CS: Structural learning and knowledge capture
+PS: Learning Models for Planning and Diagnosis
+PS: Plan Execution and Monitoring"
+385,Learning Concept Embeddings for Query Expansion by Quantum Entropy Minimization,"NLP and Knowledge Representation (NLPKR)
+NLP and Machine Learning (NLPML)","Embedding
+Density Matrix
+Query Expansion","NLPKR: Natural Language Processing (General/Other)
+NLPML: Natural Language Processing (General/Other)
+NMLA: Neural Networks/Deep Learning"
+386,Non-Restarting SAT Solvers With Simple Preprocessing Efficiently Simulate Resolution,Search and Constraint Satisfaction (SCS),"clause learning
+satisfiability
+proof complexity
+p-simulation
+1-UIP clauses
+asserting clauses
+resolution","SCS: Constraint Satisfaction
+SCS: Constraint Learning and Acquisition
+SCS: SAT and CSP: Evaluation and Analysis
+SCS: Satisfiability (General/Other)"
+387,Worst-Case Solution Quality Analysis When Not Re-Expanding Nodes in Best-First Search,Heuristic Search and Optimization (HSO),"best-first search
+re-expansions
+heuristics
+inconsistency
+inadmissibility
+solution quality
+suboptimality
+suboptimal heuristic search
+worst-case analysis","HSO: Heuristic Search
+HSO: Evaluation and Analysis (Search and Optimization)"
+388,Natural Temporal Difference Learning,Novel Machine Learning Algorithms (NMLA),"natural gradient
+temporal difference learning
+reinforcement learning",
+389,Relaxation Search: a Simple Way of Managing Optional Clauses,Search and Constraint Satisfaction (SCS),"Constraint Optimization
+Satisfiability
+Maximum Satisfiability
+Minimal Correction Sets","SCS: Constraint Optimization
+SCS: SAT and CSP: Solvers and Tools
+SCS: Satisfiability (General/Other)"
+390,Using Response Functions to Measure Strategy Strength,Game Theory and Economic Paradigms (GTEP),"strategy evaluation
+extensive-form games
+adaptive opponents","GTEP: Game Theory
+GTEP: Equilibrium
+GTEP: Imperfect Information"
+391,Optimal and Efficient Stochastic Motion Planning in Partially-Known Environments,"Reasoning under Uncertainty (RU)
+Robotics (ROB)","Planning under uncertainty
+Motion planning with action and environment uncertainty
+Optimal stochastic motion planning
+Computing policies under uncertainty","PS: Mixed Discrete/Continuous Planning
+RU: Uncertainty in AI (General/Other)
+ROB: Motion and Path Planning
+ROB: Robotics (General/Other)"
+392,Learning Scripts as Hidden Markov Models,"NLP and Machine Learning (NLPML)
+Novel Machine Learning Algorithms (NMLA)","HMM
+Scripts
+NLP
+Structural EM
+Structure Learning","NLPML: Natural Language Processing (General/Other)
+NMLA: Graphical Model Learning"
+393,Mapping Users Across Networks by Manifold Alignment on Hypergraph,AI and the Web (AIW),"Social Networks
+Manifold Alignment
+Hypergraph
+De-anonymization
+User Mapping","AIW: Machine learning and the web
+AIW: Ontologies and the web: creation, extraction, evolution, mapping, merging, and alignment; tags and folksonomies
+AIW: Social networking and community identification"
+394,Compact Aspect Embedding For Diversified Query Expansion,AI and the Web (AIW),"query expansion
+search result diversification
+Trace Norm Regularization",AIW: Enhancing web search and information retrieval
+395,Contraction and Revision over DL-Lite TBoxes,Knowledge Representation and Reasoning (KRR),"Belief Change
+Description Logic
+Non-monotonic reasoning","KRR: Belief Change
+KRR: Description Logics
+KRR: Nonmonotonic Reasoning"
+396,Zero Pronoun Resolution as Ranking,NLP and Text Mining (NLPTM),"Zero Pronouns
+Text Mining
+Natural Language Processing",NLPTM: Evaluation and Analysis
+397,Supervised Transfer Sparse Coding,Novel Machine Learning Algorithms (NMLA),"Sparse coding
+Transfer learning
+Supervised learning
+Classification
+Support Vector Machine","NMLA: Classification
+NMLA: Transfer, Adaptation, Multitask Learning
+NMLA: Supervised Learning (Other)"
